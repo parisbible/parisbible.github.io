@@ -51,8 +51,8 @@ twitter:             <BibleParis>
 
 # Add links to the sidebar.
 menu:
-  - title: The Paris Bible project
-    url:   /Project/
+  - title: Paris Bible Project Genesis
+    url:   /project/
   - title: Team
     url:   /team/
   - title: Blog

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research and data
+title: Research and Data
 permalink: /datasets/
 ---
 
@@ -34,6 +34,10 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 ### Data visualization
 
 - To be updated
+
+
+
+
 
 
 

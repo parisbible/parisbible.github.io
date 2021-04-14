@@ -20,14 +20,14 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 ### Manuscripts
 
 - **X** manuscripts from **X** institutions
-- The list of manuscripts and their metadata are downloadable on Github.
+- The list of manuscripts and their metadata are downloadable on [Github](https://github.com/parisbible/mss).
 
 
 
 ### Transcriptions
 
-- X pages/manuscripts transcribed
-- Transcriptions are available and downloadable on Github.
+- **X** pages/manuscripts transcribed
+- Transcriptions and ground truth are available and downloadable on [Github](https://github.com/parisbible/transcriptions).
 
 
 
@@ -41,4 +41,4 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 
 
 
-*Last update: 13/04/2021*
+*Last update: 14/04/2021*

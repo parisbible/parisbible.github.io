@@ -10,11 +10,9 @@ The project was started by Estelle Guéville (Louvre Abu Dhabi) and David Joseph
 
 **Niccolò Acram Cappelletto** ([@niccoacram](https://twitter.com/niccoacram)) is an art history major and Student Research Assistant at NYU Abu Dhabi. After work experiences in commercial galleries in Venice and Paris, he joined the NYUAD Art Gallery as a Student Curatorial Assistant in 2020. Focused on museum studies and curation, he is interested in issues of inclusivity in museums, new trajectories of art history, and intersections between technology and museum pedagogy.
 
-Email: [nac483@nyu.edu](mailto:nac483@nyu.edu)
+Email: [nac483@nyu.edu
 
-```english
-![Full-width image](C:\Users\Elhana\Documents\parisbible.github.io\assets\Cappelletto_Picturecut.jpg){:.lead width="800" height="100" loading="lazy"}
-```
+<img src="C:\Users\Elhana\Documents\parisbible.github.io\assets\Cappelletto_Picturecut.jpg" alt="Cappelletto_Picturecut" style="zoom:25%;" />
 
 
 

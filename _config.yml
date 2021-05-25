@@ -22,7 +22,7 @@ baseurl: ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Paris Bible Project
+title: Paris Bible Project
 email: parisbible@gmail.com
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -68,9 +68,9 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-#legal:
-#  - title:             LICENSE
-#    url:               /LICENSE/
+legal:
+  - title:             Credits
+    url:               /credits/
 #  - title:             NOTICE
 #    url:               /NOTICE/
 #  - title:             CHANGELOG
@@ -98,7 +98,7 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/LAD_cover.jpg
+accent_image:          /assets/LAD_cover_op50.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

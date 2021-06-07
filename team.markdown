@@ -12,7 +12,7 @@ The project was started by Estelle Guéville (Louvre Abu Dhabi) and David Joseph
 
 Email: [nac483@nyu.edu]
 
-<img src="C:\Users\Elhana\Documents\parisbible.github.io\assets\Cappelletto_Picturecut.jpg" alt="Cappelletto_Picturecut" style="zoom:25%;" />
+<img src="/assets/Cappelletto_Picturecut.jpg" alt="Cappelletto_Picturecut" style="zoom:25%;" />
 
 
 

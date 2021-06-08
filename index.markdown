@@ -4,6 +4,6 @@
 
 layout: home
 title:   Welcome to the Paris Bible Project
-cover:  true #!! Add this
+cover:  false #!! Add this
 ---
 

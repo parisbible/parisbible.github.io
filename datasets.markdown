@@ -12,7 +12,7 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 
 ### Models
 
-- **X** models trained in Transkribus
+- **2** models trained in Transkribus
 - Public models are stored in Transkribus.
 
 
@@ -41,4 +41,4 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 
 
 
-*Last update: 14/04/2021*
+*Last update: 08/06/2021*

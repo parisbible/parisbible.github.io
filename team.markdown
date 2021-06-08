@@ -16,7 +16,7 @@ Email: [nac483@nyu.edu](mailto:nac483@nyu.edu)
 
 <br>
 
-<img src="/assets/Gueville_pic_cut.jpg" alt="Cappelletto_Picturecut" style="zoom:7%;" />	**Estelle Guéville** ([@EstelleGvl](https://twitter.com/EstelleGvl)) 
+<img src="/assets/Gueville_pic_cut.jpg" alt="Cappelletto_Picturecut" style="zoom:17%;" />	**Estelle Guéville** ([@EstelleGvl](https://twitter.com/EstelleGvl)) 
 
 She is Assistant Researcher at Louvre Abu Dhabi. In 2016, she joined the France-Museums agency for the Louvre Abu Dhabi project, where she participated in the opening of the museum as Assistant Curator. In July 2018, she joined the Louvre Abu Dhabi in the new “Research and Development” Department where she is helping to develop academic research in several fields, including research on medieval collections using digital methods. 
 

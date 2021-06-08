@@ -17,7 +17,7 @@ The starting point of the academic research was to challenge the idea of uniform
 
 This virtual space will serve as a multidisciplinary platform to collect and publish the activities of the Paris Bible Project. The blog will have multiple approaches and head towards different directions in range, themes, topics, and styles to provide an array of the projects and initiatives undertaken. One of the focuses of this blog will be to offer suggestions and tips on how to use Transkribus (to be posted soon!) in the context of 13th century Latin Bible manuscripts at the core of the PBP. Other themes will include different uses of digital tools to generate new knowledge (e.g. Bible mapping), how to gather sources from digital platforms, or the general procedures of a research project (e.g. How to take notes on a transcription?). We will also publish some of our results and provide updates on activity (conferences, papers, etc.). We hope that these posts will help you to be more interested in the union of Medieval Studies and Digital Humanities in regards to Parisian Bibles. 
 
-For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com]
+For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)
 
 
 

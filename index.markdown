@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:  Paris Bible Project
-cover:  false #!! Add this
+title:   Welcome to the Paris Bible Project
+cover:  true #!! Add this
 ---
 

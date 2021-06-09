@@ -7,9 +7,9 @@ tags: [PBP]
 comments: false
 ---
 
-The blog of the Paris Bible Project (PBP) aims to be a repository of knowledge and material of all the different activities of the Paris Bible Project. After meeting in the context of the 2020 Winter Institute in Digital Humanities at New York University Abu Dhabi, the two project Co-Directors, Associate Professor of Digital Humanities, David Wrisley, and Medievalist and Assistant Researcher at Louvre Abu Dhabi, Estelle Guéville, developed the project, starting from a digitised version of the Parisian Bible held in the collection of the Louvre Abu Dhabi. The Paris Bible, or Parisian Bible, is a format of Bible that was standardised in the 13th century in the context of the University of Paris and spread as a model throughout Europe. In the spirit of collaborative research among institutions, the University and the Museum initiated the Paris Bible Project to understand the production and diffusion of medieval Latin Bibles in Europe, which are now kept in libraries around the world, through the use of digital tools, such as the AI-powered platform for handwritten text recognition, [Transkribus](https://readcoop.eu/transkribus/).
+The blog of the Paris Bible Project (PBP) aims to be a repository of knowledge and material of all the different activities of the Paris Bible Project. After meeting in the context of the 2020 Winter Institute in Digital Humanities at **[New York University Abu Dhabi](https://nyuad.nyu.edu/en/)**, the two project Co-Directors, Associate Professor of Digital Humanities, David Wrisley, and Medievalist and Assistant Researcher at **[Louvre Abu Dhabi](https://www.louvreabudhabi.ae/)**, Estelle Guéville, developed the project, starting from a digitised version of the Parisian Bible held in the collection of the Louvre Abu Dhabi. The Paris Bible, or Parisian Bible, is a format of Bible that was standardised in the 13th century in the context of the University of Paris and spread as a model throughout Europe. In the spirit of collaborative research among institutions, the University and the Museum initiated the Paris Bible Project to understand the production and diffusion of medieval Latin Bibles in Europe, which are now kept in libraries around the world, through the use of digital tools, such as the AI-powered platform for handwritten text recognition, [Transkribus](https://readcoop.eu/transkribus/).
 
-<img src="/assets/Al_Jubail_Saadiyat_Island_aerial_view.jpg" style="zoom:15%"/>
+<img src="/assets/Al_Jubail_Saadiyat_Island_aerial_view.jpg" style="zoom:10%"/>
 
 ©DJW (Wikipedia)
 
@@ -19,9 +19,11 @@ As the COVID-19 pandemic pushed for digitisation of cultural activities and rese
 
 The starting point of the academic research was to challenge the idea of uniformity of the Paris Bibles. Despite the fact that it consists of a standardised format, the text reveals several issues showing evidence for a variance of the model. For instance, looking at the use of abbreviations, it is possible to notice different approaches to the text (use of diacritics, ways to abbreviate, separation of words). The machine learning methodology lends itself to the analysis of these aspects of the Paris Bible that the human could not process in a short amount of time (let alone the reading of full Bibles that would require months of work on just one manuscript). Through the use of digital tools, the Paris Bible Project takes as its case study the script rather than the decorations to discover glimpses into the manuscript's social life, while also furthering research on digital humanities and its approaches.
 
-![BnF Latin 40](/assets/BnF_Latin40_Page_012.jpg)
 
-©Bibliothèque nationale de France, ms. Latin 40 - Source gallica.bnf.fr / Bibliothèque nationale de France
+
+<img src="/assets/BnF_Latin40_Page_012.jpg" style="zoom:30%"/>
+
+Bibliothèque nationale de France, ms. Latin 40 - Source gallica.bnf.fr / Bibliothèque nationale de France
 
 <br>
 
@@ -29,9 +31,11 @@ This virtual space will serve as a multidisciplinary platform to collect and pub
 
 For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)
 
+Niccolò N. Cappelletto, Estelle Guéville and David J. Wrisley
 
 
 
+<br>
 
 ### **Further readings and presentations:**
 
@@ -46,7 +50,7 @@ For any inquiries, suggestions, requests, the team can be reached at [parisbible
 - Ruzzier, Chiara (2010). *Entre universités et ordres mendiants. La Miniaturisation de la Bible au XIIIe siècle.* PhD Thesis. Université Paris 1 Panthéon-Sorbonne, Paris.
 - Widner, Michael. (2017). ‘Toward Text-Mining the Middle Ages’ in *The Routledge Research Companion to Digital Medieval Literature*, eds. by Jennifer E. Boyle, and Helen J. Burgess, United Kingdom: Taylor & Francis Group, pp. 131-144
 
-
+You can also consult the bibliography of the project on [Zotero](https://www.zotero.org/groups/2466765/paris_bible_project/library).
 
 
 

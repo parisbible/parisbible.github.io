@@ -17,5 +17,5 @@ Discover our first blog post introducing the project [here](https://parisbible.g
 
 ### Upcoming conferences
 
-David Wrisley and Estelle Guéville will present the latest results of the PBP at [IMC2021](https://twitter.com/IMC_Leeds), on July, 6th. Find the program [here](https://www.imc.leeds.ac.uk/imc-2021/).
+David Joseph Wrisley and Estelle Guéville will present the latest results of the PBP at [IMC2021](https://twitter.com/IMC_Leeds), on July, 6th. Find the program [here](https://www.imc.leeds.ac.uk/imc-2021/).
 

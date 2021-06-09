@@ -7,7 +7,7 @@ tags: [PBP]
 comments: false
 ---
 
-The blog of the Paris Bible Project (PBP) aims to be a repository of knowledge and material of all the different activities of the Paris Bible Project. After meeting in the context of the 2020 Winter Institute in Digital Humanities at **[New York University Abu Dhabi](https://nyuad.nyu.edu/en/)**, the two project Co-Directors, Associate Professor of Digital Humanities, David Wrisley, and Medievalist and Assistant Researcher at **[Louvre Abu Dhabi](https://www.louvreabudhabi.ae/)**, Estelle Guéville, developed the project, starting from a digitised version of the Parisian Bible held in the collection of the Louvre Abu Dhabi. The Paris Bible, or Parisian Bible, is a format of Bible that was standardised in the 13th century in the context of the University of Paris and spread as a model throughout Europe. In the spirit of collaborative research among institutions, the University and the Museum initiated the Paris Bible Project to understand the production and diffusion of medieval Latin Bibles in Europe, which are now kept in libraries around the world, through the use of digital tools, such as the AI-powered platform for handwritten text recognition, [Transkribus](https://readcoop.eu/transkribus/).
+The blog of the Paris Bible Project (PBP) aims to be a repository of knowledge and material of all the different activities of the Paris Bible Project. After meeting in the context of the 2020 Winter Institute in Digital Humanities at **[New York University Abu Dhabi](https://nyuad.nyu.edu/en/)**, the two project Co-Directors, Associate Professor of Digital Humanities, David Joseph Wrisley, and Medievalist and Assistant Researcher at **[Louvre Abu Dhabi](https://www.louvreabudhabi.ae/)**, Estelle Guéville, developed the project, starting from a digitised version of the Parisian Bible held in the collection of the Louvre Abu Dhabi. The Paris Bible, or Parisian Bible, is a format of Bible that was standardised in the 13th century in the context of the University of Paris and spread as a model throughout Europe. In the spirit of collaborative research among institutions, the University and the Museum initiated the Paris Bible Project to understand the production and diffusion of medieval Latin Bibles in Europe, which are now kept in libraries around the world, through the use of digital tools, such as the AI-powered platform for handwritten text recognition, [Transkribus](https://readcoop.eu/transkribus/).
 
 <img src="/assets/Al_Jubail_Saadiyat_Island_aerial_view.jpg" style="zoom:10%"/>
 
@@ -31,7 +31,7 @@ This virtual space will serve as a multidisciplinary platform to collect and pub
 
 For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)
 
-Niccolò N. Cappelletto, Estelle Guéville and David J. Wrisley
+**Niccolò N. Cappelletto, Estelle Guéville and David Joseph Wrisley**
 
 
 
@@ -57,5 +57,5 @@ You can also consult the bibliography of the project on [Zotero](https://www.zot
 
 ### **Suggested citation**
 
-Cappelletto, N.A., Guéville, E., and Wrisley, D.J. (8 June 2021). ‘[Welcome to the Paris Bible Project Blog!](https://parisbible.github.io/2021-06-08-welcome-pbp/)’ *Paris Bible Project.*
+Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (8 June 2021). ‘[Welcome to the Paris Bible Project Blog!](https://parisbible.github.io/2021-06-08-welcome-pbp/)’ *Paris Bible Project.*
 

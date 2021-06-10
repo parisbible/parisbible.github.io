@@ -18,13 +18,15 @@ Email: [nac483@nyu.edu](mailto:nac483@nyu.edu)
 
 <img src="/assets/Gueville_pic_cut.jpg" alt="Cappelletto_Picturecut" style="zoom:17%;" />	**Estelle Guéville** ([@EstelleGvl](https://twitter.com/EstelleGvl)) 
 
-She is Assistant Researcher at Louvre Abu Dhabi. In 2016, she joined the France-Museums agency for the Louvre Abu Dhabi project, where she participated in the opening of the museum as Assistant Curator. In July 2018, she joined the Louvre Abu Dhabi in the new “Research and Development” Department where she is helping to develop academic research in several fields, including research on medieval collections using digital methods. 
+She graduated from Paris 1 Panthéon Sorbonne University and developed her professional experience in several institutions in France and in the Gulf. As a medievalist, she is interested in applying digital methods and comparative approaches for the study of manuscripts. 
 
-Email: [EGueville@louvreabudhabi.ae](mailto:EGueville@louvreabudhabi.ae) / [estelle.gueville@gmail.com](mailto:estelle.gueville@gmail.com)
+Email: [estelle.gueville@gmail.com](mailto:estelle.gueville@gmail.com)
 
  <br>
 
-**David Joseph Wrisley** ([@DJWrisley](https://twitter.com/DJWrisley)) is Associate Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building in the Middle East where he has lived and researched since 2002. 
+<img src="/assets/Wrisley_pic.jpg" alt="Cappelletto_Picturecut" style="zoom:7%;" />**David Joseph Wrisley** ([@DJWrisley](https://twitter.com/DJWrisley)) 
+
+He is Associate Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building in the Middle East where he has lived and researched since 2002. 
 
 Email: [djw12@nyu.edu](mailto:djw12@nyu.edu)
 

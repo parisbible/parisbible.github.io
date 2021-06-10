@@ -24,7 +24,7 @@ Email: [estelle.gueville@gmail.com](mailto:estelle.gueville@gmail.com)
 
  <br>
 
-<img src="/assets/Wrisley_pic.jpg" alt="Cappelletto_Picturecut" style="zoom:7%;" />**David Joseph Wrisley** ([@DJWrisley](https://twitter.com/DJWrisley)) 
+<img src="/assets/Wrisley_pic.jpg" alt="Cappelletto_Picturecut" style="zoom:7%;" />	**David Joseph Wrisley** ([@DJWrisley](https://twitter.com/DJWrisley)) 
 
 He is Associate Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building in the Middle East where he has lived and researched since 2002. 
 

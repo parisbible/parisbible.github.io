@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-The project was started by Estelle Guéville (Louvre Abu Dhabi) and David Joseph Wrisley (NYU Abu Dhabi). They are supported by Niccolò Acram Cappelletto (NYU Abu Dhabi).
+The project was started by Estelle Guéville and David Joseph Wrisley (NYU Abu Dhabi). They are supported by Niccolò Acram Cappelletto (NYU Abu Dhabi).
 
 <br>
 

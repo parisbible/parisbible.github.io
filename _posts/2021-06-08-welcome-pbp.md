@@ -39,16 +39,16 @@ For any inquiries, suggestions, requests, the team can be reached at [parisbible
 
 ### **Further readings and presentations:**
 
-- Burrows, Toby. (2017). ‘Medieval Manuscripts and their (digital) afterlives’ in *The Routledge Research Companion to Digital Medieval Literature*, eds. by Jennifer E. Boyle, and Helen J. Burgess, United Kingdom: Taylor & Francis Group, pp. 158-166.
+- Burrows, Toby. (2017). Medieval Manuscripts and their (digital) afterlives. In J. E. Boyle and H. J. Burgess (Eds). *The Routledge Research Companion to Digital Medieval Literature*. United Kingdom: Taylor & Francis Group, 158-166.
 - De Hamel, Christopher. (2001). *The Book. A History of the Bible*, London and New York.
-- Guéville, Estelle, and Wrisley, David Joseph. (2020).  ‘[*Rethinking the Abbreviation*](https://www.youtube.com/watch?v=p38lvPRRNmA)*’*. Dark Archives 20/20.
-- Hamidovic, David, Clivaz, Claire, and Bowen Savant, Sarah, eds. (2019) *Ancient Manuscripts in Digital Culture: Visualizing, Data Mining, Communication*. Leiden: Brill.
-- Lauwers, Michel. (2008). « [Usages de la Bible et institution du sens dans l’Occident médiéval](http://medievales.revues.org/5436) », in *Médiévales,* 55.
-- Light, Laura. (1994) ‘French Bibles c. 1200-30: a new look at the origin of the Paris Bible’ in *The Early Medieval Bible: Its production, decoration and use*, edited by Richard Gameson. Cambridge, UK: Cambridge University Press.
-- Light, L. (2012). ‘The thirteenth century and the Paris Bible’, in R. Marsden & E. Matter (Authors), *The New Cambridge History of the Bible* (New Cambridge History of the Bible, pp. 380-391). Cambridge: Cambridge University Press.
+- Guéville, Estelle, and Wrisley, David Joseph. (2020). [*Rethinking the Abbreviation*: questions and challenges of machine reading medieval scripta](https://www.youtube.com/watch?v=p38lvPRRNmA). Dark Archives 20/20, 9 September 2020.
+- Hamidovic, David, Clivaz, Claire, and Bowen Savant, Sarah, eds. (2019). *Ancient Manuscripts in Digital Culture: Visualizing, Data Mining, Communication*. Leiden: Brill.
+- Lauwers, Michel. (2008). [Usages de la Bible et institution du sens dans l’Occident médiéval](http://medievales.revues.org/5436). *Médiévales,* 55.
+- Light, Laura. (1994). French Bibles c. 1200-30: a new look at the origin of the Paris Bible. In R. Gameson (Ed.). *The Early Medieval Bible: Its Production, Decoration and Use*. Cambridge: Cambridge University Press.
+- Light, Laura. (2012). The Thirteenth-Century Bible: The Paris Bible and Beyond. In R. Marsden and E. A. Matter (Eds). *The New Cambridge History of the Bible. Volume two, c. 600-1450.* Cambridge: Cambridge University Press.
 - Lobrichon, Guy. (2003). *La Bible au Moyen Age*. Paris: Picard.
-- Ruzzier, Chiara (2010). *Entre universités et ordres mendiants. La Miniaturisation de la Bible au XIIIe siècle.* PhD Thesis. Université Paris 1 Panthéon-Sorbonne, Paris.
-- Widner, Michael. (2017). ‘Toward Text-Mining the Middle Ages’ in *The Routledge Research Companion to Digital Medieval Literature*, eds. by Jennifer E. Boyle, and Helen J. Burgess, United Kingdom: Taylor & Francis Group, pp. 131-144
+- Ruzzier, Chiara. (2010). *Entre universités et ordres mendiants. La Miniaturisation de la Bible au XIIIe siècle.* PhD Thesis. Université Paris 1 Panthéon-Sorbonne, Paris.
+- Widner, Michael. (2017). Toward Text-Mining the Middle Ages. In J. E. Boyle and H. J. Burgess (Eds). *The Routledge Research Companion to Digital Medieval Literature*. United Kingdom: Taylor & Francis Group, 131-144.
 
 You can also consult the bibliography of the project on [Zotero](https://www.zotero.org/groups/2466765/paris_bible_project/library).
 

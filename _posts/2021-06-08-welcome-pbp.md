@@ -57,5 +57,5 @@ You can also consult the bibliography of the project on [Zotero](https://www.zot
 
 ### **Suggested citation**
 
-Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (8 June 2021). ‘[Welcome to the Paris Bible Project Blog!](https://parisbible.github.io/2021-06-08-welcome-pbp/)’ *Paris Bible Project.*
+Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (8 June 2021). [Welcome to the Paris Bible Project Blog!](https://parisbible.github.io/2021-06-08-welcome-pbp/) *Paris Bible Project.*
 

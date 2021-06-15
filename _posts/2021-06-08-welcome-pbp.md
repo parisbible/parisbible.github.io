@@ -23,7 +23,7 @@ The starting point of the academic research was to challenge the idea of uniform
 
 <img src="/assets/BnF_Latin40_Page_012.jpg" style="zoom:30%"/>
 
-Bibliothèque nationale de France, ms. Latin 40 - Source gallica.bnf.fr / Bibliothèque nationale de France
+©Bibliothèque nationale de France, ms. Latin 40 - Source gallica.bnf.fr / Bibliothèque nationale de France
 
 <br>
 

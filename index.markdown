@@ -9,9 +9,9 @@ cover:  false #!! Add this
 
 
 
-### Latest announcements
+### What's new?
 
-Discover our first blog post introducing the project [here](https://parisbible.github.io/2021-06-08-welcome-pbp/)!
+Discover our new blog post explaining what is a Paris Bible [here](https://parisbible.github.io/2021-06-15-what_is_PB/)!
 
 
 

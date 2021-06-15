@@ -12,7 +12,7 @@ The project was started by Estelle Guéville and David Joseph Wrisley (NYU Abu D
 
 He is an art history major and Student Research Assistant at NYU Abu Dhabi. After work experiences in commercial galleries in Venice and Paris, he joined the NYUAD Art Gallery as a Student Curatorial Assistant in 2020. Focused on museum studies and curation, he is interested in issues of inclusivity in museums, new trajectories of art history, and intersections between technology and museum pedagogy.
 
-Email: [nac483@nyu.edu](mailto:nac483@nyu.edu)
+
 
 <br>
 
@@ -20,7 +20,7 @@ Email: [nac483@nyu.edu](mailto:nac483@nyu.edu)
 
 She graduated from Paris 1 Panthéon Sorbonne University and developed her professional experience in several institutions in France and in the Gulf. As a medievalist, she is interested in applying digital methods and comparative approaches for the study of manuscripts. 
 
-Email: [estelle.gueville@gmail.com](mailto:estelle.gueville@gmail.com)
+
 
  <br>
 
@@ -28,5 +28,7 @@ Email: [estelle.gueville@gmail.com](mailto:estelle.gueville@gmail.com)
 
 He is Associate Professor of Digital Humanities at NYU Abu Dhabi. His research interests include comparative approaches to medieval literature in European languages and Arabic, digital spatial approaches to corpora, neural methods for handwritten text recognition across writing systems and open knowledge community building in the Middle East where he has lived and researched since 2002. 
 
-Email: [djw12@nyu.edu](mailto:djw12@nyu.edu)
+<br>
+
+For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)
 

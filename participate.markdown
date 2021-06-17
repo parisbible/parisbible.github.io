@@ -4,9 +4,7 @@ title: Participate
 permalink: /participate/
 ---
 
-[TOC]
-
-
+1. this unordered seed list will be replaced by toc as unordered list {:toc}
 
 ## Participate!
 
@@ -31,7 +29,7 @@ Not all fields are required. Thank you for your collaboration.
 
 ******************
 
-## Participer!
+## Participez !
 
 Nous compilons une liste des bibles parisiennes conservées dans des collections du monde entier. Si vous avez connaissance d'une Bible de Paris qui n'est pas incluse dans notre [liste](https://github.com/parisbible/mss), nous aimerions en savoir plus. Vous pouvez nous aider et nous envoyer par [email](mailto:parisbible@gmail.com) le lien du catalogue en ligne s'il existe ou les informations suivantes si vous les avez :
 
@@ -49,6 +47,29 @@ Nous compilons une liste des bibles parisiennes conservées dans des collections
 - Existe-t-il un manifeste IIIF ?
 
 Tous les champs ne sont pas obligatoires. Nous vous remercions de votre collaboration.
+
+<br>
+
+******************
+
+## Come Partecipare !
+
+Stiamo redigendo una lista di Bibbie Parigine provenienti da collezioni da tutto il mondo. Se sei a conoscenza di una Bibbia Parigina che non è inclusa nella nostra [lista di manoscritti](https://github.com/parisbible/mss), ci piacerebbe saperne di più a riguardo. Puoi aiutarci inviandoci una [email](mailto:parisbible@gmail.com) con il riferimento del catalogo online o quante più delle seguenti informazioni:
+
+- Istituzione
+- Numero di inventario
+- Data
+- Luogo
+- Scriba/tipo di scrittura
+- Numero di volumi
+- Numero di fogli per volume
+- Dimensioni (larghezza e altezza)
+- Dimensioni dell’allineamento del testo (larghezza e altezza)
+- Numero di righe (media)
+- È digitalizzata e hai il link per accedere alla versione digitale?
+- Esiste un manifesto IIIF?
+
+Non tutti i campi sono necessari. Grazie per la collaborazione!
 
 <br>
 

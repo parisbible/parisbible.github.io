@@ -4,7 +4,11 @@ title: Participate
 permalink: /participate/
 ---
 
-1. this unordered seed list will be replaced by toc as unordered list {:toc}
+
+
+0. this unordered seed list will be replaced by toc as unordered list
+
+{:toc}
 
 ## Participate!
 

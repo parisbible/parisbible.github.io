@@ -100,8 +100,7 @@ No todos los campos son obligatorios. ¡Muchas gracias por su colaboración!
 ******************
 
 
-
-##  
+##  Teilnehmen!
 
 Ihre Mitarbeit wird gefragt!  Wir sind dabei, ein weltweites Verzeichnis von Pariser Bibeln zusammenzutragen. Falls Sie eine Pariser Bibel-HS kennen, die wir in unserer Liste noch nicht erfaßt haben, wären wir Ihnen sehr dankbar, wenn Sie uns darauf aufmerksam machen würden. Wir wären ebenfalls sehr dankbar, wenn Sie uns per [Email](mailto:parisbible@gmail.com) einen entsprechenden online-Kataloglink bzw. möglichst viele Information zu der nicht erfaßten Handschrift schicken würden. Wir interessieren uns vor allem für die folgenden Einzelheiten:
 

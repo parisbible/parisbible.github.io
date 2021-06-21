@@ -6,7 +6,7 @@ permalink: /participate/
 
 
 
-{:toc}
+
 
 # Participate!
 
@@ -79,7 +79,7 @@ Non tutti i campi sono necessari. Grazie per la collaborazione!
 
 # ¡Participar!
 
-Estamos elaborando una lista de Biblias de París que se encuentran en colecciones de todo el mundo. Si conoce una Biblia de París que no esté incluida en nuestra [lista de manuscritos](https://github.com/parisbible/mss, nos encantaría conocer más sobre ella. Puede ayudarnos y enviarnos por [correo electrónico](mailto:parisbible@gmail.com) el enlace del catálogo en línea o toda la información que pueda de la siguiente manera
+Estamos elaborando una lista de Biblias de París que se encuentran en colecciones de todo el mundo. Si conoce una Biblia de París que no esté incluida en nuestra [lista de manuscritos](https://github.com/parisbible/mss), nos encantaría conocer más sobre ella. Puede ayudarnos y enviarnos por [correo electrónico](mailto:parisbible@gmail.com) el enlace del catálogo en línea o toda la información que pueda de la siguiente manera
 
 - Institución
 - Número de inventario
@@ -102,9 +102,9 @@ No todos los campos son obligatorios. ¡Muchas gracias por su colaboración!
 
 
 
-# # 
+# # Teilnehmen!
 
-Ihre Mitarbeit wird gefragt!  Wir sind dabei, ein weltweites Verzeichnis von Pariser Bibeln zusammenzutragen. Falls Sie eine Pariser Bibel-HS kennen, die wir in unserer Liste noch nicht erfaßt haben, wären wir Ihnen sehr dankbar, wenn Sie uns darauf aufmerksam machen würden. Wir wären ebenfalls sehr dankbar, wenn Sie uns per [Email](mailto:parisbible@gmail.com) einen entsprechenden online-Kataloglink bzw. möglichst viele Information zu der nicht erfaßten Handschrift schicken würden. Wir interessieren uns vor allem für die folgenden Einzelheiten:
+Ihre Mitarbeit wird gefragt!  Wir sind dabei, ein weltweites Verzeichnis von Pariser Bibeln zusammenzutragen. Falls Sie eine Pariser Bibel-HS kennen, die wir in unserer [Liste](https://github.com/parisbible/mss) noch nicht erfaßt haben, wären wir Ihnen sehr dankbar, wenn Sie uns darauf aufmerksam machen würden. Wir wären ebenfalls sehr dankbar, wenn Sie uns per [Email](mailto:parisbible@gmail.com) einen entsprechenden online-Kataloglink bzw. möglichst viele Information zu der nicht erfaßten Handschrift schicken würden. Wir interessieren uns vor allem für die folgenden Einzelheiten:
 
 - Aktuelle Bibliothek bzw. Institution
 - Handschrift- bzw. Inventarsignatur

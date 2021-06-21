@@ -31,7 +31,7 @@ This virtual space will serve as a multidisciplinary platform to collect and pub
 
 For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)
 
-**Niccolò N. Cappelletto, Estelle Guéville and David Joseph Wrisley**
+**Niccolò Acram Cappelletto, Estelle Guéville and David Joseph Wrisley**
 
 
 

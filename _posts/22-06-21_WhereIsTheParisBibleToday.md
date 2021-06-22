@@ -1,4 +1,12 @@
-**Where is the Paris Bible today?**
+---
+layout: post
+title:  "Where is the Paris Bible today?"
+gh-repo: daattali/beautiful-jekyll
+tags: [PBP]
+comments: false
+---
+
+# **Where is the Paris Bible today?**
 
  
 
@@ -28,7 +36,7 @@ Anyone having information about Paris Bibles that we do not have a record of, di
 
  
 
-**Sources:**
+## **Sources:**
 
  
 
@@ -54,7 +62,7 @@ Schoenberg Institute for Manuscript Studies. (2021). Schoenberg Database of Manu
 
  
 
-**Suggested citation**
+## **Suggested citation**
 
  
 

@@ -4,7 +4,7 @@
 
 Thousands of Paris Bibles have been created between the 13th and the 14th centuries, making them one of the most important kinds of manuscripts produced in the medieval period along with Books of Hours and an ideal object for scaled, computational research (Boillet et al, 2019). There are many uncertainties about studying this material as data. First of all, it is difficult to say with certainty from catalog records alone (in the absence of digitization) if a manuscript from the period listed as a "Bible" is, in fact, of the sort we have described as a Paris Bible[[1\]](#_msocom_1) . Second, as with most medieval collections, dating and localization of the manuscripts are notoriously complex. It would be a rare manuscript that gives a precise indication of where and when it was produced. Third, it is difficult to estimate what percentage of Paris Bibles is preserved today, although recent approaches in species modeling might provide some interesting hypotheses (Kestemont and Karsdorp). One thing we can say with certainty is where the identified Bibles are currently located. 
 
-<img src="C:\Users\prontoalluso\Desktop\Paris Bible Project\Blogposts\Assets\Blog3_Fig1.png" alt="Blog3_Fig1" style="zoom:50%;" />
+<img src="/assets/Blog3_Fig1" style="zoom:50%;" />
 
 **Figure 1: A labelled map of concentrations of Paris Bibles held in library collections around the world as of the PBP database on 16 June 2021. Map made in QGIS with an OpenStreetMap base. See this image [here](https://github.com/parisbible/parisbible.github.io/blob/main/assets/Blog3_Fig1.png).**
 
@@ -16,7 +16,7 @@ In the same way the Paris Bible model spread around Europe in the Middle Ages wi
 
 Using localization information given by library catalogs or other digital resources to build a map is a much trickier endeavor. First of all, indications of a location of where a manuscript was copied or from where a manuscript originated are notoriously imprecise both in terms of the certainty and granularity of the data. We find location information in catalog descriptions such as "Paris or N France?," "Rouen region," "library of the Dominican friars of Clermont-Ferrand," "France or England," or even "unknown." In order to build a map such as the one in Figure 2, we removed examples of Paris Bibles where the place of fabrication and current location were very close (say within a few kilometers of each other). If records contained a "?" this was resolved to certainty and regional descriptors such as "Northern France" were resolved to a representative city for the purposes of automatic geocoding. A map, such as the one in Figure 2, is more of a suggestion of general patterns in the dataset about the origin and current than it is a representation of certainty and it should be considered accordingly. 
 
-<img src="C:\Users\prontoalluso\Desktop\Paris Bible Project\Blogposts\Assets\Blog3_Fig2.png" alt="Blog3_Fig2" style="zoom: 80%;" />
+<img src="assets\Blog3_Fig2.png" style="zoom: 80%;" />
 
 **Figure 2: A point-to-point map suggesting some trajectories of Paris Bibles from their hypothesized place of fabrication to their known current location. The red ovals are places of fabrication. Map built in R using ggplot2 with code adapted from Prevos. See this image [here](https://github.com/parisbible/parisbible.github.io/blob/main/assets/Blog3_Fig2.png).**
 

@@ -16,7 +16,7 @@ In the same way the Paris Bible model spread around Europe in the Middle Ages wi
 
 Using localization information given by library catalogs or other digital resources to build a map is a much trickier endeavor. First of all, indications of a location of where a manuscript was copied or from where a manuscript originated are notoriously imprecise both in terms of the certainty and granularity of the data. We find location information in catalog descriptions such as "Paris or N France?," "Rouen region," "library of the Dominican friars of Clermont-Ferrand," "France or England," or even "unknown." In order to build a map such as the one in Figure 2, we removed examples of Paris Bibles where the place of fabrication and current location were very close (say within a few kilometers of each other). If records contained a "?" this was resolved to certainty and regional descriptors such as "Northern France" were resolved to a representative city for the purposes of automatic geocoding. A map, such as the one in Figure 2, is more of a suggestion of general patterns in the dataset about the origin and current than it is a representation of certainty and it should be considered accordingly. 
 
-<img src="assets\Blog3_Fig2.png" style="zoom: 80%;" />
+<img src="/assets/Blog3_Fig2.png" style="zoom: 80%;" />
 
 **Figure 2: A point-to-point map suggesting some trajectories of Paris Bibles from their hypothesized place of fabrication to their known current location. The red ovals are places of fabrication. Map built in R using ggplot2 with code adapted from Prevos. See this image [here](https://github.com/parisbible/parisbible.github.io/blob/main/assets/Blog3_Fig2.png).**
 

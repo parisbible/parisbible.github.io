@@ -40,24 +40,11 @@ Anyone having information about Paris Bibles that we do not have a record of, di
 
  
 
-Boillet, Mélodie, Bonhomme, Marie-Laurence, Stutzmann, Dominique, Kermorvant, Christopher. (2019). HORAE: an annotated dataset of books of hours. In *Proceedings of The 5th International Workshop on Historical Document Imaging and Processing, Sydney, NSW, Australia, September 20–21, 2019* (HIP’19), DOI: 10.1145/3352631.3352633.
-
- 
-
-Kestemont, Mike and Karsdorp, Folgert. (2020). Estimating The Loss of Medieval Literature With an Unseen Species Model from Ecodiversity. CHR 2020: Workshop on Computational Humanities Research, November 18–20, 2020, Amsterdam. 44-55.
-
- 
-
-Prevos, Peter. (2017) "Create Air Travel Route Maps in ggplot: A Visual Travel Diary" https://www.r-bloggers.com/2017/03/create-air-travel-route-maps-in-ggplot-a-visual-travel-diary/. 
-
- 
-
-Ruzzier, Chiara. (2018). ‘Les manuscrits de la Bible au XIIIe siècle: quelques aspects de la réception du modèle parisien dans l’Europe méridionale’, in *Medieval Europe in Motion: The Circulation of Artists, Images, Patterns and Ideas from the Mediterranean to the Atlantic Coast (6th-15th centuries)*. Bilotta, M. A. (ed.). Palermo: Officina di Studi Medievali, 281-297
-
- 
-
-Schoenberg Institute for Manuscript Studies. (2021). Schoenberg Database of Manuscripts. https://sdbm.library.upenn.edu/ 
-
+- Boillet, Mélodie, Bonhomme, Marie-Laurence, Stutzmann, Dominique, Kermorvant, Christopher. (2019). HORAE: an annotated dataset of books of hours. In *Proceedings of The 5th International Workshop on Historical Document Imaging and Processing, Sydney, NSW, Australia, September 20–21, 2019* (HIP’19), DOI: 10.1145/3352631.3352633.
+- Kestemont, Mike and Karsdorp, Folgert. (2020). Estimating The Loss of Medieval Literature With an Unseen Species Model from Ecodiversity. CHR 2020: Workshop on Computational Humanities Research, November 18–20, 2020, Amsterdam. 44-55.
+- Prevos, Peter. (2017) "Create Air Travel Route Maps in ggplot: A Visual Travel Diary" https://www.r-bloggers.com/2017/03/create-air-travel-route-maps-in-ggplot-a-visual-travel-diary/. 
+- Ruzzier, Chiara. (2018). ‘Les manuscrits de la Bible au XIIIe siècle: quelques aspects de la réception du modèle parisien dans l’Europe méridionale’, in *Medieval Europe in Motion: The Circulation of Artists, Images, Patterns and Ideas from the Mediterranean to the Atlantic Coast (6th-15th centuries)*. Bilotta, M. A. (ed.). Palermo: Officina di Studi Medievali, 281-297
+- Schoenberg Institute for Manuscript Studies. (2021). Schoenberg Database of Manuscripts. https://sdbm.library.upenn.edu/ 
  
 
  

@@ -8,13 +8,10 @@ comments: false
 
 Thousands of Paris Bibles have been created between the 13th and the 14th centuries, making them one of the most important kinds of manuscripts produced in the medieval period along with Books of Hours and an ideal object for scaled, computational research (Boillet et al, 2019). There are many uncertainties about studying this material as data. First of all, it is difficult to say with certainty from catalog records alone (in the absence of digitization) if a manuscript from the period listed as a "Bible" is, in fact, of the sort we have described as a [Paris Bible](https://parisbible.github.io/2021-06-15-what_is_PB/). Second, as with most medieval collections, dating and localization of the manuscripts are notoriously complex. It would be a rare manuscript that gives a precise indication of where and when it was produced. Third, it is difficult to estimate what percentage of Paris Bibles is preserved today, although recent approaches in species modeling might provide some interesting hypotheses (Kestemont and Karsdorp). One thing we can say with certainty is where the identified Bibles are currently located. 
 
-<<<<<<< HEAD
-=======
  <br>
 
 Thousands of Paris Bibles have been created between the 13th and the 14th centuries, making them one of the most important kinds of manuscripts produced in the medieval period along with Books of Hours and an ideal object for scaled, computational research (Boillet et al, 2019). There are many uncertainties about studying this material as data. First of all, it is difficult to say with certainty from catalog records alone (in the absence of digitization) if a manuscript from the period listed as a "Bible" is, in fact, of the sort we have described as a Paris Bible (see [Blogpost 1](https://parisbible.github.io/2021-06-15-what_is_PB/)). Second, as with most medieval collections, dating and localization of the manuscripts are notoriously complex. It would be a rare manuscript that gives a precise indication of where and when it was produced. Third, it is difficult to estimate what percentage of Paris Bibles is preserved today, although recent approaches in species modeling might provide some interesting hypotheses (Kestemont and Karsdorp). One thing we can say with certainty is where the identified Bibles are currently located. 
 
->>>>>>> 634c1b37c8d8b2c20de52292e8a1831001316793
 <br>
 
 <img src="/assets/Blog3_Fig1.png" style="zoom:50%;" />
@@ -49,10 +46,7 @@ Anyone having information about Paris Bibles that we do not have a record of, di
 
 ### **Sources:**
 
-<<<<<<< HEAD
- Boillet, Mélodie, Bonhomme, Marie-Laurence, Stutzmann, Dominique, Kermorvant, Christopher. (2019). HORAE: an annotated dataset of books of hours. In *Proceedings of The 5th International Workshop on Historical Document Imaging and Processing, Sydney, NSW, Australia, September 20–21, 2019* (HIP’19), DOI: 10.1145/3352631.3352633.
-=======
->>>>>>> 634c1b37c8d8b2c20de52292e8a1831001316793
+-  Boillet, Mélodie, Bonhomme, Marie-Laurence, Stutzmann, Dominique, Kermorvant, Christopher. (2019). HORAE: an annotated dataset of books of hours. In *Proceedings of The 5th International Workshop on Historical Document Imaging and Processing, Sydney, NSW, Australia, September 20–21, 2019* (HIP’19), DOI: 10.1145/3352631.3352633.
 
 - Kestemont, Mike and Karsdorp, Folgert. (2020). Estimating The Loss of Medieval Literature With an Unseen Species Model from Ecodiversity. CHR 2020: Workshop on Computational Humanities Research, November 18–20, 2020, Amsterdam. 44-55.
 - Prevos, Peter. (2017) "[Create Air Travel Route Maps in ggplot: A Visual Travel Diary](https://www.r-bloggers.com/2017/03/create-air-travel-route-maps-in-ggplot-a-visual-travel-diary/)". 

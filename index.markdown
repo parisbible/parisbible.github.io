@@ -11,7 +11,7 @@ cover:  false #!! Add this
 
 ### What's new?
 
-Discover our new blog post explaining what a Paris Bible is [here](https://parisbible.github.io/2021-06-15-what_is_PB/)!
+Discover our new blog post to discover where are Paris Bibles today [here](https://parisbible.github.io/2021-06-22-WhereIsTheParisBibleToday/)!
 
 
 

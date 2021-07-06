@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Paris Bible Project and Transkribus: Getting started"
+title: The Paris Bible Project and Transkribus: Getting Started
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP]
 comments: false

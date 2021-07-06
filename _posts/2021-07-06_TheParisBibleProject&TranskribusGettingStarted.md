@@ -53,13 +53,13 @@ Working with the LAD 2013.051, we created ground truth (human verified transcrip
 Thus, after around forty pages corrected for our first manuscript, the Bible preserved at the Louvre Abu Dhabi, the LAD 1.3 model was already able to provide a good transcription of the text. We then applied this model to other manuscripts sourced from libraries around the world that provide a digitized version of Parisian Bibles. After trying our model on three of them, we found very interesting results with promising perspectives once the model will improve. As we expand our work, we hope to make the models public to Transkribus users as well. 
 
 **Niccolò Acram Cappelletto, David Joseph Wrisley, and Estelle Guéville**
+
 <br>
 
 
 
 **Useful Links:**
 
-<br>
 
 https://parisbible.github.io/datasets/
 
@@ -73,7 +73,6 @@ How to Use Transkribus in 10 Steps: https://readcoop.eu/transkribus/howto/use-tr
 
 ### **Further videos:**
 
-<br>
 
 - Transkribus Tutorials: https://www.youtube.com/watch?v=ezx79GxVoCI&list=PL7UbQtd4qlhIMP1KfdjGW3C-KXTxw4KYb
 - *Transkribus Webinar* by Annemieke Romein: https://www.youtube.com/watch?v=5YCfaFNMol4&t=6342s

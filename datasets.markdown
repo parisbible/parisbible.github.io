@@ -12,14 +12,14 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 
 ### Models
 
-- **2** models trained in Transkribus
+- **5** models trained in Transkribus
 - Public models are stored in Transkribus.
 
 
 
 ### Manuscripts
 
-- **3** manuscripts from **3** institutions
+- **X** manuscripts from **X** institutions
 - The list of manuscripts and their metadata are downloadable on [Github](https://github.com/parisbible/mss).
 
 

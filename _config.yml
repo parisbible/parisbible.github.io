@@ -3,14 +3,14 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#url: ''
+url: ''
 
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#baseurl: ''
+baseurl: ''
 #baseurl: "/parisbible"
 
 
@@ -22,13 +22,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Paris Bible Project
+title: Paris Bible Project
 email: parisbible@gmail.com
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   The Paris Bible Project aims to understand the production and diffusion of medieval Latin Bibles in Europe.
-
 # A shorter description for the sidebar.
 tagline: The Paris Bible Project aims to understand the production and diffusion of medieval Latin Bibles in Europe.
 
@@ -180,7 +179,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
- google_analytics:      UA-200356991-1
+# google_analytics:      UA-XXXXXXXX-X
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.

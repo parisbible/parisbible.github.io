@@ -7,6 +7,8 @@ tags: [PBP]
 comments: false
 ---
 
+# **The Paris Bible Project and Transkribus: Getting Started**
+
 ## **Using Transkribus in the Paris Bible Project**
 
 <br>

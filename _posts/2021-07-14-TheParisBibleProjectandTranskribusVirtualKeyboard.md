@@ -7,6 +7,8 @@ tags: [PBP]
 comments: false
 ---
 
+# **The Paris Bible Project and Transkribus: the Virtual Keyboard**
+
 ## **What is the Virtual Keyboard**
 
 <br>When working with a new alphabet or in the case of special characters (called glyphs in Transkribus) not found on a laptop keyboard or in Transkribus, a feature that proved to be useful for the Paris Bible Project (PBP) is the Virtual Keyboard. This functionality can be opened at the bottom of the transcription section with the keyboard icon (v.1.16.0) and it contains pre-loaded alphabets linked to Unicodes. There is also a “Custom” tab that allows the user to personalize a keyboard for individual projects. For us, this possibility made it easier to have our most frequently used characters in a handy place. The correction work became more efficient by avoiding copy-pasting characters from tables outside the platform or inputting the Unicodes manually each time.

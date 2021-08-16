@@ -3,7 +3,7 @@ layout: post
 title: "The Paris Bible Project and Transkribus: the Virtual Keyboard"
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [PBP] [Tool]
 comments: false
 ---
 
@@ -56,4 +56,4 @@ Transkribus Glossary. *Virtual Keyboard*. https://readcoop.eu/glossary/virtual-k
 <br>
 
 ## **Suggested citation:**
-Cappelletto, Niccolò Acram. (2021). The Paris Bible Project and Transkribus: the Virtual Keyboard. *Paris Bible Project.*
+Cappelletto, Niccolò Acram. (14 July 2021). The Paris Bible Project and Transkribus: the Virtual Keyboard. *Paris Bible Project.*

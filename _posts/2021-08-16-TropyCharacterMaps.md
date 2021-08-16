@@ -15,9 +15,9 @@ This blog post will present its main features and the use that the Paris Bible P
 
 <br>
 
-<img src="/assets/Fig1_example tropy.jpg" style="zoom:50%"/>
+<img src="/assets/Fig1_example tropy.jpg">
 
-**Figure 1: Viewing of our project in Tropy with screenshots of characters coming from different manuscripts. ** 
+**Figure 1: Viewing of our project in Tropy with screenshots of characters coming from different manuscripts.**
 
 <br>
 
@@ -44,7 +44,7 @@ The descriptive possibilities of metadata in Tropy allows us organizing the pict
 
 <br>
 
-<img src="/assets/Fig2_dominus.png" style="zoom:50%"/>
+<img src="/assets/Fig2_dominus.png">
 
 **Figure 2: How an “Item” looks on Tropy with the selection function. The abbreviated word “Dominus” found in three different manuscripts.** 
 
@@ -60,7 +60,7 @@ In our repository on Github, you can find the JSON files for our character maps 
 
 <br>
 
-## **Resources:**
+## **Resources**
 
 - Tropy:[ https://tropy.org](https://tropy.org/)/
 - Tropy Guide:[ https://docs.tropy.org/](https://docs.tropy.org/)
@@ -71,7 +71,7 @@ In our repository on Github, you can find the JSON files for our character maps 
 
 <br>
 
-## **Suggested citation:**
+## **Suggested citation**
 
 Cappelletto, Niccolò Acram. (16 August 2021). Tropy and Character Maps: image-based research. *Paris Bible Project.*
 

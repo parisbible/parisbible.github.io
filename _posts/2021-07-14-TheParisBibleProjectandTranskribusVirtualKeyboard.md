@@ -23,8 +23,6 @@ For example, in the PBP we often wanted to use combining Unicodes (such as U+030
 
 **Figure 1: The keyboard icon in Transkribus version 1.16.0 for viewing the alternative keyboards.** 
 
-
-
 <br>
 
 ## **How to customize the Virtual Keyboard**
@@ -47,11 +45,9 @@ The customized Virtual Keyboards appear only to you and are not shared in the co
 
 
 
-**Further Readings**:
+## **Further Readings**
 
 Transkribus Glossary. *Virtual Keyboard*. https://readcoop.eu/glossary/virtual-keyboard/
-
-<br>
 
 <br>
 

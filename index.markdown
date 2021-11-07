@@ -17,5 +17,4 @@ Check out our new blog post to see how we use the digital platform Transkribus f
 
 ### Upcoming conferences
 
-The team will present the latest results of the PBP on September, 16th at the Conference 'From Fragments to Whole: Interpreting Medieval Manuscripts Fragments' organised by the Centre for Medieval Studies, University of Bristol.
-
+The team will present on the PBP on December 9th, 2021 at the [*AI4LAM: Futurs Fantastiques*](https://www.bnf.fr/en/program-international-conference-les-futurs-fantastiques-december-8-10-2021#bnf-program) conference at the Bibliothèque nationale de France in Paris. 

@@ -11,7 +11,7 @@ cover:  false #!! Add this
 
 ### What's new?
 
-Check out our new blog post to see how we use the digital platform Transkribus for our research, [here](https://parisbible.github.io/2021-07-06-TheParisBibleProjectAndTranskribusGettingStarted/)!
+Check out our new blog post to see where to find data!
 
 
 

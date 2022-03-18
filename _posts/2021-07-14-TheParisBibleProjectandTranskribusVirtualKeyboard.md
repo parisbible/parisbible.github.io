@@ -15,13 +15,13 @@ comments: false
 
 <br>
 
-For example, in the PBP we often wanted to use combining Unicodes (such as U+0304, the macron " ̄̄") or to use glyphs that approximate ways that medieval scribes write (such as the insular d "ꝺ" or the rotund r "ꝛ"). 
+For example, in the PBP we often wanted to use combining Unicodes (such as U+0304, the macron " ̄̄") or to use glyphs that approximate ways that medieval scribes write (such as the insular d "ꝺ" or the rotund r "ꝛ").
 
 <br>
 
 <img src="/assets/Fig1_Blog8.png" style="zoom:50%"/>
 
-**Figure 1: The keyboard icon in Transkribus version 1.16.0 for viewing the alternative keyboards.** 
+**Figure 1: The keyboard icon in Transkribus version 1.16.0 for viewing the alternative keyboards.**
 
 <br>
 
@@ -33,13 +33,15 @@ To customize the Virtual Keyboard, you can press the “Edit” button and a tab
 
 <img src="/assets/Fig2_Blog8.png" style="zoom:50%"/>
 
-**Figure 2: The windows for editing the Virtual Keyboard and batch adding Unicode characters.** 
+**Figure 2: The windows for editing the Virtual Keyboard and batch adding Unicode characters.**
 
 <br>
 
 The customized Virtual Keyboards appear only to you and are not shared in the collection. One easy way to have a shared keyboard with your team is to create a table with excel/spreadsheet altogether and insert them all at once in your individual Transkribus. In this way, you will be able to work more efficiently and have all the characters you need at hand!
 
 **NiccolòAcram Cappelletto**
+
+Update: In the latest version of Transkribus Lite, the virtual keyboard set up in the expert client will populate into the Lite interface.
 
 <br>
 

@@ -13,6 +13,8 @@ cover:  false #!! Add this
 
 Check out our new blog post to see where to find data!
 
+Our article "Creating New Audiences for Digital Objects Through University-Museum Collboration" has appeared in the journal [Museums in the MENA Region](https://archive.nyu.edu/handle/2451/63847).
+
 
 
 ### Upcoming conferences

@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-This section lists all the conferences where the members of the research team presented the results of the project and the papers they published.
+This section lists all the conferences where the members of the research team presented the project or publications.
 
 
 # Publications
 
-- [Wrisley, David Joseph, Guéville, Estelle, and Cappelletto, Niccolò Acram. Creating New Audiences for Digital Objects Through Museum-University Collaboration. *Museums in the Middle East Journal*. Sharjah, UAE.](http://hdl.handle.net/2451/63847)
+- [Wrisley, David Joseph, Guéville, Estelle, and Cappelletto, Niccolò Acram. (2022). Creating New Audiences for Digital Objects Through Museum-University Collaboration. *Museums in the Middle East Journal*. Sharjah, UAE. 3: 61-63.](http://hdl.handle.net/2451/63847)
 
 
 # Conference presentations

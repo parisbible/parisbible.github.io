@@ -19,4 +19,6 @@ Our article "Creating New Audiences for Digital Objects Through University-Museu
 
 ### Upcoming conferences
 
-The team will present on the PBP in July 2022 at the International Medieval Congress in Leeds. 
+The team presented on the PBP in July 2022 at the International Medieval Congress in Leeds. 
+
+More soon!

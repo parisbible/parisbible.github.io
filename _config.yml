@@ -58,10 +58,12 @@ menu:
     url:   /posts/
   - title: Research and Data
     url:   /datasets/
+  - title: Transcription Guidelines
+    url:   /guidelines/
   - title: Publications
     url:   /publications/
-  - title: Paris Bible Challenge
-    url:   /challenge/
+#  - title: Paris Bible Challenge
+#    url:   /challenge/
   - title: Participate
     url:   /participate/
 

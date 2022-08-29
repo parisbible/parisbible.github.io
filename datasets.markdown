@@ -19,7 +19,7 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 
 ### Manuscripts
 
-- **X** manuscripts from **X** institutions
+- **More than 320** manuscripts from **76** institutions in **14** countries
 - The list of manuscripts and their metadata are downloadable on [Github](https://github.com/parisbible/mss).
 
 

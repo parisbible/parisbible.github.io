@@ -112,15 +112,15 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 # Organization
 ## Teams
-Number of teams: 5
-Number of people per team: 3-4 
+- Number of teams: 5
+- Number of people per team: 3-4 
 
 ## Material
 TBC
 
-One manuscript per team.
-Same section(s) of the Bible for all.
-Platform: Transkribus
+- One manuscript per team.
+- Same section(s) of the Bible for all.
+- Platform: Transkribus
 
 ## [Guidelines](https://parisbible.github.io/guidelines/)
 

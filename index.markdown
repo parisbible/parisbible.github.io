@@ -11,14 +11,14 @@ cover:  false #!! Add this
 
 ### What's new?
 
-Check out our new blog post to see where to find data!
-
-Our article "Creating New Audiences for Digital Objects Through University-Museum Collboration" has appeared in the journal [Museums in the MENA Region](https://archive.nyu.edu/handle/2451/63847).
+In January 2023, we will be running the first Paris Bible Challenge in collaboration with the Université de Franche-Comté. Learn more [here](https://parisbible.github.io/challenge/).
 
 
 
 ### Upcoming conferences
 
-The team presented on the PBP in July 2022 at the International Medieval Congress in Leeds. 
+The team will present the project at:
+- the International Congress on Medieval Studies (Medieval Institute at Western Michigan University, Kalamazoo) in May 2023: “Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex.” 
+- the European Society of Textual Scholarship 2023 Conference in April 2023: “Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex.” 
 
-More soon!
+Do not hesitate to reach out !

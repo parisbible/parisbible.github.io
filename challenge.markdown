@@ -107,10 +107,7 @@ Number of teams: 5
 Number of people per team: 3-4 
 
 ## Material
-- 
-- 
-- 
-- 
+TBC
 
 One manuscript per team.
 Same section(s) of the Bible for all.
@@ -119,10 +116,7 @@ Platform: Transkribus
 ## [Guidelines](https://parisbible.github.io/guidelines/)
 
 ## Jury (provisional)
-- Ben Albritton, Rare Books Curator, Stanford Libraries.
-- Raymond Clemens, Curator, Early Books & Manuscripts, Beinecke Library, Yale University.
-- Pierre Emmanuel Guilleray, Conservateur chargé du numérique, Bibliothèque municipale d'étude et de conservation, Besançon.
-- Bill Stoneman, former curator of early books and manuscripts at Houghton Library, Harvard University.
+TBC
 
 ## Criteria for judging
 - Accuracy of correction (30%)

@@ -48,8 +48,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 ## Wednesday, January 11, 2023 (1700-1830 Paris Time)
 **Talk (on [zoom](https://nyu.zoom.us/j/91591694622)): David J. Wrisley and Estelle Guéville "[Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project](https://docs.google.com/presentation/d/1h2OcHrFuuZ9Kc9YZxMvUTTatlCih9joz/edit#slide=id.g1cc0791d8fd_2_11)"**  
-- Presentation of the project.
-- Presentation of the project and some high-level results.
+- Presentation of the PBP project.
+- Presentation of the methodology and some high-level results.
 - Presentation of the challenge:
     - Material
     - Transcription guidelines
@@ -57,7 +57,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Gentle Introduction to Transkribus Lite
 - [Instructions for next week](https://docs.google.com/document/d/1Ebd3VhiEz7qzbCZqkNNBc-aAp3zg41viUlMCpzQxaIw/edit?usp=sharing)
 
-## [Monday, January 16, 2023](https://nyu.zoom.us/j/91591694622) (1500-1800 Paris time) 
+## [Monday, January 16, 2023](https://nyu.zoom.us/j/91591694622) (1500-1800 Paris Time) 
 **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
 - Learning about handwritten text recognition.
 - Browse the manuscript collection.
@@ -82,7 +82,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Debriefing 
 
 ## [Wednesday, January 18, 2023](https://nyu.zoom.us/j/91591694622) (1400-1600 Paris Time)
-- Question and answer session (15min)
+- Question and answer session (15 min)
 - Additional guided correction (45 min)
 - **[Blogging with markdown - David Wrisley](https://docs.google.com/presentation/d/16y--H6aGTmJa9h5OY-9ZQ4qSMS76euoC/edit#slide=id.g106cc1ecc18_0_12) (1h)**
     - Research blogging: documenting the process

@@ -46,11 +46,10 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - [GitHub account](https://github.com/signup)
     - [Transkribus Lite account](https://lite.transkribus.eu/)
 
-## Wednesday, January 11, 2023 (1700-1830 5pm - 630pm Paris Time)
-**Talk (synchronous on [zoom](https://nyu.zoom.us/j/96569189656)): David J. Wrisley and Estelle Guéville "Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project"**  
+## Wednesday, January 11, 2023 (1700-1830 Paris Time)
+**Talk (synchronous on [zoom](https://nyu.zoom.us/j/96569189656)): David J. Wrisley and Estelle Guéville "[Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project](https://docs.google.com/presentation/d/1h2OcHrFuuZ9Kc9YZxMvUTTatlCih9joz/edit#slide=id.g1cc0791d8fd_2_11)"**  
+- Presentation of the project.
 - Presentation of the project and some high-level results.
-- Presentation of the project’s methodology.
-- Citizen Science in the Humanities / Research Humanities (Venice)
 - Presentation of the challenge:
     - Material
     - Transcription guidelines
@@ -58,14 +57,22 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Gentle Introduction to Transkribus Lite
 - [Instructions for next week](https://docs.google.com/document/d/1Ebd3VhiEz7qzbCZqkNNBc-aAp3zg41viUlMCpzQxaIw/edit?usp=sharing)
 
-## Monday, January 16, 2023 1500-1800 Paris time 
+## Monday, January 16, 2023 (1500-1800 Paris time) 
 **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
 - Learning about handwritten text recognition.
 - Browse the manuscript collection.
 - Learning the Transkribus Lite interface.
 - Introduce judges, concept of jury.
 - Create the teams.
-- End products: taking notes throughout the week; process-oriented thinking
+
+**[Gentle Introduction to Palaeography and Codicology - Estelle Guéville](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)**
+- Learning to describe a medieval manuscript: introduction to features of codicology and paleography in Paris Bibles
+- End products: 
+    - Documenting the next few days
+    - Taking notes throughout the week; process-oriented thinking
+        - Describing the most common abbreviations used, punctuation style, etc
+        - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
+
 
 ## Tuesday, January 17, 2023: Correct-a-thon (1400-1700, in person) 
 - Correcting one manuscript per team (30 mins)
@@ -75,23 +82,22 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Debriefing 
 
 ## Wednesday, January 18, 2023 (1400-1600 Paris time, [zoom link](https://nyu.zoom.us/j/91591694622))
-- [Estelle Guéville remote session](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)
-    - Learning to describe a manuscript (introduction to features of codicology and paleography in Paris Bibles)
-    - Documenting the next few days (paper forms)
-- [David Wrisley in-person session](https://docs.google.com/presentation/d/16y--H6aGTmJa9h5OY-9ZQ4qSMS76euoC/edit#slide=id.g106cc1ecc18_0_12)
+- Question and answer session (15min)
+- Additional guided correction (45 min)
+
+- **[Blogging with markdown - David Wrisley](https://docs.google.com/presentation/d/16y--H6aGTmJa9h5OY-9ZQ4qSMS76euoC/edit#slide=id.g106cc1ecc18_0_12) (1h)**
     - Research blogging: documenting the process
+    - Principles of markdown
     - Learning to publish a blog post on a static website (using GitHub) 
 
 ## Thursday, January 19, 2023
 - **Morning: visit to the BM, Besançon to see manuscripts**
-- **Afternoon (1400-1600 Paris time, [zoom link](https://nyu.zoom.us/j/91591694622))**
-    - [Estelle Guéville - remote session](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)
-        - Describing the most common abbreviations used, punctuation style, etc
-        - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found.
-    - [David Wrisley - in-person session](https://docs.google.com/presentation/d/1y0dz6NGHp30ahmsTdyk5FRlv9RGnEb6X/edit#slide=id.g106cc1ecc18_0_12) 
-        - Present the results of the retrained model with PyLaia with diff checker (David)
-        - Discussion of the output of model: progress? Overfitting? 
-        - Taking notes & drafting blog posts (1 per team, in Drive)
+- **Afternoon (1400-1600 Paris time, [zoom link](https://nyu.zoom.us/j/91591694622))** - [Estelle Guéville and David Wrisley](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)
+    - General discussion about modes of transcription and abbreviations found.
+    - Present the results of the retrained model with PyLaia with diff checker
+    - General discussion of the output of model: progress? Overfitting? 
+    - Taking notes & drafting blog posts (1 per team, in Drive)
+
 
 ## [Friday, January 20, 2023](https://docs.google.com/presentation/d/1poYo9XMf9x9HWzJTEw3oBZS0NvocdOj9/edit#slide=id.g106cc1ecc18_0_12) (1400-1700 Paris time, zoom [link](https://nyu.zoom.us/j/91591694622))
 - What we can do with the data produced
@@ -103,7 +109,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - Publish one of the blog posts in real-time
     - Publish corrected ground truth at PBP and HTR United with names and ORCID
 
-## Late January: remote session with the jury 
+## Mid-February: remote session with the jury 
 
 # Organization
 ## Teams
@@ -119,7 +125,7 @@ Platform: Transkribus
 
 ## [Guidelines](https://parisbible.github.io/guidelines/)
 
-## Jury (provisional)
+## Jury
 TBC
 
 ## Criteria for judging

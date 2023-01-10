@@ -3,6 +3,10 @@ layout: page
 title: Paris Bible Challenge, Université de Franche-Comté, Besançon, January 2023
 permalink: /challenge/
 --- 
+
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 # About the Paris Bible Project
 The [Paris Bible Project](parisbible.github.io) is a transnational digital humanities project that aims to understand the production and diffusion of Latin Bibles in medieval Europe. Using emerging and established techniques in digital research in the humanities, the project challenges the received opinion of Paris Bibles as uniform, even though it was a model that was created with a degree of standardization and spread in Europe in the 13th century. We use handwritten text recognition (HTR) to create diplomatic transcriptions from digitized copies of manuscripts and we study the spelling and abbreviation of words in the transcriptions as distinctive features for understanding more about the specificities of the manuscript, for example, scribal habits, localization or dating.  
 

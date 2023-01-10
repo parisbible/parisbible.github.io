@@ -8,17 +8,16 @@ cover:  false #!! Add this
 ---
 
 
+## What's new?
 
-### What's new?
-
-In January 2023, we will be running the first Paris Bible Challenge in collaboration with the Université de Franche-Comté. Learn more [here](https://parisbible.github.io/challenge/).
-
+In January 2023, we will run the first Paris Bible Challenge in collaboration with the Université de Franche-Comté. Learn more [here](https://parisbible.github.io/challenge/).
 
 
-### Upcoming conferences
+## Upcoming conferences
 
-The team will present the project at:
-- the International Congress on Medieval Studies (Medieval Institute at Western Michigan University, Kalamazoo) in May 2023: “Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex.” 
+In 2033, the team will present the project at:
 - the European Society of Textual Scholarship 2023 Conference in April 2023: “Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex.” 
+- the International Congress on Medieval Studies (Medieval Institute at Western Michigan University, Kalamazoo) in May 2023: “Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex.” 
 
-Do not hesitate to reach out !
+
+Do not hesitate to reach out!

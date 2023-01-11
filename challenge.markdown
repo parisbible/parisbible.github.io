@@ -60,18 +60,17 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - [Instructions for next week](https://docs.google.com/document/d/1Ebd3VhiEz7qzbCZqkNNBc-aAp3zg41viUlMCpzQxaIw/edit?usp=sharing)
 
 ## [Monday, January 16, 2023](https://nyu.zoom.us/j/91591694622) (1500-1800 Paris Time) 
-**[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
-- Learning about handwritten text recognition.
-- Browse the manuscript collection.
-- Learning the Transkribus Lite interface.
-- Introduce judges, concept of jury.
-- Create the teams.
-
-**[Gentle Introduction to Palaeography and Codicology - Estelle Guéville](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)**
-- Learning to describe a medieval manuscript: introduction to features of codicology and paleography in Paris Bibles
-- Documenting the next few days: taking notes throughout the week for process-oriented thinking
-    - Describing the most common abbreviations used, punctuation style, etc
-    - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
+- **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
+    - Learning about handwritten text recognition.
+    - Browse the manuscript collection.
+    - Learning the Transkribus Lite interface.
+    - Introduce judges, concept of jury.
+    - Create the teams.
+- **[Gentle Introduction to Palaeography and Codicology - Estelle Guéville](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)**
+    - Learning to describe a medieval manuscript: introduction to features of codicology and paleography in Paris Bibles
+    - Documenting the next few days: taking notes throughout the week for process-oriented thinking
+        - Describing the most common abbreviations used, punctuation style, etc
+        - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
 
 
 ## [Tuesday, January 17, 2023: Correct-a-thon](https://nyu.zoom.us/j/91591694622) (1400-1700 Paris Time) 

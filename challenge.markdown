@@ -127,6 +127,9 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 | Stanford Libraries ms. 23 | |     |
 | Besançon municipal library ms. 4 | |     |
 | Besançon municipal library ms. 8 | |     |
+| [Beinecke Library ZZi 56](https://collections.library.yale.edu/catalog/2020598) | Mainz and Germany Mainz |  ca. 1454   |
+| Aarau Aargau Cantonal Library MsWettF 11 | Germany | Third quarter of the 13th century    |
+
 
 
 ## [Guidelines](https://parisbible.github.io/guidelines/)

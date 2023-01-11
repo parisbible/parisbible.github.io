@@ -38,7 +38,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 # Schedule
 ## Preparation before the talk
-- **Readings:** 
+- **Read:** 
     - Estelle Guéville and David Joseph Wrisley, "Transcribing Medieval Manuscripts for Machine Learning"
     - [Tobias Hodel, Supervised and Unsupervised: Approaches to Machine Learning for Textual Entities. Archives, Access and Artificial Intelligence](https://www.degruyter.com/document/doi/10.1515/9783839455845-007/html) 
 - **Watch:** 
@@ -49,7 +49,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - [Transkribus Lite account](https://lite.transkribus.eu/)
 
 ## Wednesday, January 11, 2023 (1700-1830 Paris Time)
-**Talk (on [zoom](https://nyu.zoom.us/j/91591694622)): David J. Wrisley and Estelle Guéville "[Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project](https://docs.google.com/presentation/d/1h2OcHrFuuZ9Kc9YZxMvUTTatlCih9joz/edit#slide=id.g1cc0791d8fd_2_11)"**  
+**[Talk](https://nyu.zoom.us/j/91591694622): David J. Wrisley and Estelle Guéville "[Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project](https://docs.google.com/presentation/d/1h2OcHrFuuZ9Kc9YZxMvUTTatlCih9joz/edit#slide=id.g1cc0791d8fd_2_11)"**  
 - Presentation of the PBP project.
 - Presentation of the methodology and some high-level results.
 - Presentation of the challenge:
@@ -69,11 +69,9 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 **[Gentle Introduction to Palaeography and Codicology - Estelle Guéville](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)**
 - Learning to describe a medieval manuscript: introduction to features of codicology and paleography in Paris Bibles
-- End products: 
-    - Documenting the next few days
-    - Taking notes throughout the week; process-oriented thinking
-        - Describing the most common abbreviations used, punctuation style, etc
-        - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
+- Documenting the next few days: taking notes throughout the week for process-oriented thinking
+    - Describing the most common abbreviations used, punctuation style, etc
+    - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
 
 
 ## [Tuesday, January 17, 2023: Correct-a-thon](https://nyu.zoom.us/j/91591694622) (1400-1700 Paris Time) 
@@ -93,7 +91,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 ## [Thursday, January 19, 2023](https://nyu.zoom.us/j/91591694622)
 - **Morning: visit to the BM, Besançon to see manuscripts**
-- **Afternoon (1400-1600 Paris Time)** - [Estelle Guéville and David Wrisley](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)
+- **[Afternoon (1400-1600 Paris Time)](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)**
     - General discussion about modes of transcription and abbreviations found.
     - Present the results of the retrained model with PyLaia with diff checker
     - General discussion of the output of model: progress? Overfitting? 
@@ -118,11 +116,19 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Number of people per team: 3-4 
 
 ## Material
-TBC
-
 - One manuscript per team.
 - Same section(s) of the Bible for all.
-- Platform: Transkribus
+- Platform: Transkribus  
+
+
+| Inventory |Country of origin| Date  |
+|-----------------|:-----------|:---------------:|
+| Beinecke Library ms. 1100 |Italy |13th century     |
+| Beinecke Library ms. 387|England or France |ca. 1325     |
+| Stanford Libraries ms. 23 | |     |
+| Besançon municipal library ms. 4 | |     |
+| Besançon municipal library ms. 8 | |     |
+
 
 ## [Guidelines](https://parisbible.github.io/guidelines/)
 

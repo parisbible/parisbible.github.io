@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paris Bible Challenge, Université de Franche-Comté, Besançon, January 2023
+title: Paris Bible Challenge at the Université de Franche-Comté (January 2023)
 permalink: /challenge/
 --- 
 

@@ -125,8 +125,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 | [Beinecke Library ms. 1100](https://brbl-dl.library.yale.edu/vufind/Search/Results?lookfor=%22Beinecke+MS+1100%22&type=CallNumber) |Italy |13th century     |
 | [Beinecke Library ms. 387](https://brbl-dl.library.yale.edu/vufind/Search/Results?lookfor=%22Beinecke+MS+387%22&type=CallNumber)|England or France |ca. 1325     |
 | Stanford Libraries ms. 23 | |     |
-| Besançon municipal library ms. 4 | |     |
-| Besançon municipal library ms. 8 | |     |
+| Besançon municipal library ms. 4 |France. By or for a franciscan monastery. |  mid 13th century    |
+| Besançon municipal library ms. 8 |France, Besançon? | end of 13th century    |
 | [Beinecke Library ZZi 56](https://collections.library.yale.edu/catalog/2020598) | Mainz and Germany Mainz |  ca. 1454   |
 | Aarau Aargau Cantonal Library MsWettF 11 | Germany | Third quarter of the 13th century    |
 

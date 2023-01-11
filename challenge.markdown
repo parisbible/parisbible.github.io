@@ -128,7 +128,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 | Besançon municipal library ms. 4 |France. By or for a franciscan monastery. |  mid 13th century    |
 | Besançon municipal library ms. 8 |France, Besançon? | end of 13th century    |
 | [Beinecke Library ZZi 56](https://collections.library.yale.edu/catalog/2020598) | Mainz and Germany Mainz |  ca. 1454   |
-| Aarau Aargau Cantonal Library MsWettF 11 | Germany | Third quarter of the 13th century    |
+| [Aarau Aargau Cantonal Library MsWettF 11](https://www.e-codices.unifr.ch/fr/kba/WettF0011/) | Germany | Third quarter of the 13th century    |
 
 
 

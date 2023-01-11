@@ -138,10 +138,9 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 TBC
 
 ## Criteria for judging
-- Accuracy of correction (30%)
-- Description of scribal profiles (30%)
-- Reflections on working with machine-transcribed texts and description of errors found in the automatic transcriptions (20%)
-- Overall quality of the blog post (20%)
+- Accuracy of correction (40%)
+- Reflections on working with machine-transcribed texts and description of errors found in the automatic transcriptions (30%)
+- Overall quality of the blog post (30%)
 - Additional: description of illuminations/decoration
 
 ## Communication

@@ -48,7 +48,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - [GitHub account](https://github.com/signup)
     - [Transkribus Lite account](https://lite.transkribus.eu/)
 
-## Wednesday, January 11, 2023 (1700-1830 Paris Time)
+## Wednesday, January 11, 2023 (1700-1830 France Time)
 **[Talk](https://nyu.zoom.us/j/91591694622): David J. Wrisley and Estelle Guéville "[Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project](https://docs.google.com/presentation/d/1h2OcHrFuuZ9Kc9YZxMvUTTatlCih9joz/edit#slide=id.g1cc0791d8fd_2_11)"**  
 - Presentation of the PBP project.
 - Presentation of the methodology and some high-level results.
@@ -59,7 +59,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Gentle Introduction to Transkribus Lite
 - [Instructions for next week](https://docs.google.com/document/d/1Ebd3VhiEz7qzbCZqkNNBc-aAp3zg41viUlMCpzQxaIw/edit?usp=sharing)
 
-## [Monday, January 16, 2023](https://nyu.zoom.us/j/91591694622) (1500-1800 Paris Time) 
+## [Monday, January 16, 2023](https://nyu.zoom.us/j/91591694622) (1500-1800 France Time) 
 - **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
     - Learning about handwritten text recognition.
     - Browse the manuscript collection.
@@ -73,14 +73,14 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
         - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
 
 
-## [Tuesday, January 17, 2023: Correct-a-thon](https://nyu.zoom.us/j/91591694622) (1400-1700 Paris Time) 
+## [Tuesday, January 17, 2023: Correct-a-thon](https://nyu.zoom.us/j/91591694622) (1400-1700 France Time) 
 - Correcting one manuscript per team (30 mins)
 - Question and answer session (30 mins) 
 - Guided correction (1 3/4 hours) 
 - [Distraction activity](https://docs.google.com/presentation/d/1QqpZNBkTW6riOJPxiMAmYNXKXNy12S61/edit#slide=id.p4): classifying images from Paris Bibles with basic tags 
 - Debriefing 
 
-## [Wednesday, January 18, 2023](https://nyu.zoom.us/j/91591694622) (1400-1600 Paris Time)
+## [Wednesday, January 18, 2023](https://nyu.zoom.us/j/91591694622) (1400-1600 France Time)
 - Question and answer session (15 min)
 - Additional guided correction (45 min)
 - **[Blogging with markdown - David Wrisley](https://docs.google.com/presentation/d/16y--H6aGTmJa9h5OY-9ZQ4qSMS76euoC/edit#slide=id.g106cc1ecc18_0_12) (1h)**
@@ -90,14 +90,14 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 ## [Thursday, January 19, 2023](https://nyu.zoom.us/j/91591694622)
 - **Morning: visit to the BM, Besançon to see manuscripts**
-- **[Afternoon (1400-1600 Paris Time)](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)**
+- **[Afternoon (1400-1600 France Time)](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)**
     - General discussion about modes of transcription and abbreviations found.
     - Present the results of the retrained model with PyLaia with diff checker
     - General discussion of the output of model: progress? Overfitting? 
     - Taking notes & drafting blog posts (1 per team, in Drive)
 
 
-## [Friday, January 20, 2023](https://nyu.zoom.us/j/91591694622) (1400-1700 Paris Time) [Discussion](https://docs.google.com/presentation/d/1poYo9XMf9x9HWzJTEw3oBZS0NvocdOj9/edit#slide=id.g106cc1ecc18_0_12)
+## [Friday, January 20, 2023](https://nyu.zoom.us/j/91591694622) (1400-1700 France Time) [Discussion](https://docs.google.com/presentation/d/1poYo9XMf9x9HWzJTEw3oBZS0NvocdOj9/edit#slide=id.g106cc1ecc18_0_12)
 - What we can do with the data produced
     - Presenting the next steps of the project, PCA with the mss worked on.
     - Proposing a description of a scribal profile.

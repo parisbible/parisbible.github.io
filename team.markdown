@@ -4,6 +4,8 @@ title: Team
 permalink: /team/
 ---
 
+<base target="_blank">
+
 The project was started by Estelle Guéville and David Joseph Wrisley (NYU Abu Dhabi). They have been supported by Niccolò Acram Cappelletto (NYU Abu Dhabi).
 
 

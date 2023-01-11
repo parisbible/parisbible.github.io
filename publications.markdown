@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+<base target="_blank">
 
 This section lists all the conferences where the members of the research team presented the project or publications.
 

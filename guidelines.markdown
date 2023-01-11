@@ -3,6 +3,7 @@ layout: page
 title: Transcription Guidelines
 permalink: /guidelines/
 ---
+<base target="_blank">
 
 **These guidelines come from our forthcoming paper to be published in the *Journal of Data Mining and Digital Humanities*. They will be updated and archived here as the project evolves.**
 

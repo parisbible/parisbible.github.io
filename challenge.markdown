@@ -100,7 +100,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - General discussion about modes of transcription and abbreviations found.
     - Present the results of the retrained model with PyLaia with diff checker
     - General discussion of the output of model: progress? Overfitting? 
-    - Taking notes & drafting blog posts (1 per team, in Drive)
+    - Taking notes & drafting blog posts
 
 
 ## Friday, January 20, 2023 (1400-1700 France Time) [Discussion](https://docs.google.com/presentation/d/1poYo9XMf9x9HWzJTEw3oBZS0NvocdOj9/edit#slide=id.g106cc1ecc18_0_12)
@@ -117,8 +117,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 # Organization
 ## Teams
-- Number of teams: 5
-- Number of people per team: 3-4 
+- Number of teams: 6
+- Number of people per team: 3
 
 ## Material
 - One manuscript per team.
@@ -133,9 +133,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 | Stanford Libraries ms. 23 |Paris | mid 1250s    |
 | Besançon municipal library ms. 4 |France. By or for a franciscan monastery. |  mid 13th century    |
 | Besançon municipal library ms. 8 |France, Besançon? | end of 13th century    |
-| [Beinecke Library ZZi 56](https://collections.library.yale.edu/catalog/2020598) | Mainz and Germany Mainz |  ca. 1454   |
 | [Aarau Aargau Cantonal Library MsWettF 11](https://www.e-codices.unifr.ch/fr/kba/WettF0011/) | Germany | Third quarter of the 13th century    |
-
+| [Beinecke Library ZZi 56](https://collections.library.yale.edu/catalog/2020598) | Mainz and Germany Mainz |  ca. 1454   |
 
 
 ## [Guidelines](https://parisbible.github.io/guidelines/)

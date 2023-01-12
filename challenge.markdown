@@ -71,13 +71,14 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - Documenting the next few days: taking notes throughout the week for process-oriented thinking
         - Describing the most common abbreviations used, punctuation style, etc
         - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
+- **Annotation interface for Paris Bible images from Mandragore / Initiales - Christopher Meinecke**
 
 
 ## Tuesday, January 17, 2023: Correct-a-thon (1400-1700 France Time) 
 - Correcting one manuscript per team (30 mins)
 - Question and answer session (30 mins) 
 - Guided correction (1 3/4 hours) 
-- [Distraction activity](https://docs.google.com/presentation/d/1QqpZNBkTW6riOJPxiMAmYNXKXNy12S61/edit#slide=id.p4): classifying images from Paris Bibles with basic tags 
+- Distraction activity: classifying images from Paris Bibles with basic tags 
 - Debriefing 
 
 ## Wednesday, January 18, 2023 (1400-1600 France Time)
@@ -90,7 +91,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 ## Thursday, January 19, 2023
 - **Morning: visit to the BM, Besançon to see manuscripts**
-- **[Afternoon (1400-1600 France Time)](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12)**
+- **[Afternoon (1400-1600 France Time)](https://docs.google.com/presentation/d/1y0dz6NGHp30ahmsTdyk5FRlv9RGnEb6X/edit?usp=share_link&ouid=102504427829552033927&rtpof=true&sd=true)**
     - General discussion about modes of transcription and abbreviations found.
     - Present the results of the retrained model with PyLaia with diff checker
     - General discussion of the output of model: progress? Overfitting? 

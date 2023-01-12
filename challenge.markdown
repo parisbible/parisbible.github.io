@@ -47,6 +47,12 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - [ORCID account](https://orcid.org/register)
     - [GitHub account](https://github.com/signup)
     - [Transkribus Lite account](https://lite.transkribus.eu/)
+- **Download:** 
+    - [Github Desktop](https://desktop.github.com/)
+- **Additional Readings:**
+    - Wrisley, David Joseph, Guéville, Estelle, and Cappelletto, Niccolò Acram. (2022). [Creating New Audiences for Digital Objects Through Museum-University Collaboration](http://hdl.handle.net/2451/63847). Museums in the Middle East Journal. Sharjah, UAE. 3: 61-63.
+    - Romein, Annemieke et al. [Exploring Data Provenance in HTR Infrastructure](https://doi.org/10.5281/zenodo.7267245). (under review)  
+
 
 ## Wednesday, January 11, 2023 (1700-1830 France Time)
 **Talk: David J. Wrisley and Estelle Guéville "[Working with AI-created Transcriptions of Manuscripts: Introducing the Paris Bible Project](https://docs.google.com/presentation/d/1h2OcHrFuuZ9Kc9YZxMvUTTatlCih9joz/edit#slide=id.g1cc0791d8fd_2_11)"**  

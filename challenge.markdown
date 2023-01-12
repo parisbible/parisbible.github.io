@@ -37,7 +37,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Participating in the enrichment and creation of a dataset.
 
 # Schedule
-## Preparation before the talk
+## Preparatory work
 - **Read:** 
     - Estelle Guéville and David Joseph Wrisley, "Transcribing Medieval Manuscripts for Machine Learning"
     - [Tobias Hodel, Supervised and Unsupervised: Approaches to Machine Learning for Textual Entities. Archives, Access and Artificial Intelligence](https://www.degruyter.com/document/doi/10.1515/9783839455845-007/html) 
@@ -62,7 +62,6 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - Material
     - Transcription guidelines
     - Organization
-- Gentle Introduction to Transkribus Lite
 - [Instructions for next week](https://docs.google.com/document/d/1Ebd3VhiEz7qzbCZqkNNBc-aAp3zg41viUlMCpzQxaIw/edit?usp=sharing)
 
 ## Monday, January 16, 2023 (1500-1800 France Time) 

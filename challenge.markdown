@@ -66,17 +66,18 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 ## Monday, January 16, 2023 (1500-1800 France Time) 
 - **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
-    - Learning about handwritten text recognition.
-    - Browse the manuscript collection.
-    - Learning the Transkribus Lite interface.
-    - Introduce judges, concept of jury.
-    - Create the teams.
-- **[Gentle Introduction to Palaeography and Codicology - Estelle Guéville](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)**
+    - 1505-1520 - Learning about handwritten text recognition
+    - 1520-1530 - Creating the teams, collecting team information, adding to collections
+    - 1530-1540 - Introducing Manuscript of Each Team
+    - 1540-1630 - Learning the Transkribus Lite interfaces
+- **1630-1640 - Break**
+- **1640-1725 - [Gentle Introduction to Palaeography and Codicology - Estelle Guéville](https://docs.google.com/presentation/d/1QNit56UMDS0JTN9Zc8u0tGxdFmEBKAld/edit#slide=id.p1)**
     - Learning to describe a medieval manuscript: introduction to features of codicology and paleography in Paris Bibles
-    - Documenting the next few days: taking notes throughout the week for process-oriented thinking
+    - Taking notes and process-oriented thinking
         - Describing the most common abbreviations used, punctuation style, etc
         - Describing the errors found in the transcription and propose other ways of transcribing letter forms or abbreviations found
-- **Annotation interface for Paris Bible images from Mandragore / Initiales - Christopher Meinecke**
+- **1725-1750 Christofer Meinecke (Leipzig U) - Annotation interface for Paris Bible images from Mandragore / Initiales**
+- **1750-1800 Wrap up / questions**
 
 
 ## Tuesday, January 17, 2023: Correct-a-thon (1400-1700 France Time) 
@@ -89,7 +90,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 ## Wednesday, January 18, 2023 (1400-1600 France Time)
 - Question and answer session (15 min)
 - Additional guided correction (45 min)
-- **[Blogging with markdown - David Wrisley](https://docs.google.com/presentation/d/16y--H6aGTmJa9h5OY-9ZQ4qSMS76euoC/edit#slide=id.g106cc1ecc18_0_12) (1h)**
+- Checking in on images - Christopher Meinecke (15 min)
+- **[Blogging with markdown - David Wrisley](https://docs.google.com/presentation/d/16y--H6aGTmJa9h5OY-9ZQ4qSMS76euoC/edit#slide=id.g106cc1ecc18_0_12) (45min)**
     - Research blogging: documenting the process
     - Principles of markdown
     - Learning to publish a blog post on a static website (using GitHub) 
@@ -112,6 +114,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Publication
     - Publish one of the blog posts in real-time
     - Publish corrected ground truth at PBP and HTR United with names and ORCID
+- Images: what have we learned from the annotation of images? 
+
 
 ## Mid-February: remote session with the jury 
 

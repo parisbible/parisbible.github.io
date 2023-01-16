@@ -65,7 +65,7 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - [Instructions for next week](https://docs.google.com/document/d/1Ebd3VhiEz7qzbCZqkNNBc-aAp3zg41viUlMCpzQxaIw/edit?usp=sharing)
 
 ## Monday, January 16, 2023 (1500-1800 France Time) 
-- **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus (we will record this session for anyone who cannot attend or rewatching)** 
+- **[Orientation](https://docs.google.com/presentation/d/145BpU6aZAvgQ31jrseU-E6miSkBcazwK/edit#slide=id.g106cc1ecc18_0_12) session with Transkribus** 
     - 1505-1520 - Learning about handwritten text recognition
     - 1520-1530 - Creating the teams, collecting team information, adding to collections
     - 1530-1540 - Introducing Manuscript of Each Team

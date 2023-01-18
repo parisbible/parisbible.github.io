@@ -6,6 +6,8 @@ tags: [PBP]
 comments: false
 ---
 
+# LOOK MA! NO HANDS!
+ 
 Thousands of Paris Bibles have been created between the 13th and the 14th centuries, making them one of the most important kinds of manuscripts produced in the medieval period along with Books of Hours and an ideal object for scaled, computational research (Boillet et al, 2019). There are many uncertainties about studying this material as data. First of all, it is difficult to say with certainty from catalog records alone (in the absence of digitization) if a manuscript from the period listed as a "Bible" is, in fact, of the sort we have described as a Paris Bible (see [Blogpost 1](https://parisbible.github.io/2021-06-15-what_is_PB/)). Second, as with most medieval collections, dating and localization of the manuscripts are notoriously complex. It would be a rare manuscript that gives a precise indication of where and when it was produced. Third, it is difficult to estimate what percentage of Paris Bibles is preserved today, although recent approaches in species modeling might provide some interesting hypotheses (Kestemont and Karsdorp). One thing we can say with certainty is where the identified Bibles are currently located. 
 
 <br>

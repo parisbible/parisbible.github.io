@@ -95,10 +95,10 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - Research blogging: documenting the process
     - Principles of markdown
     - Learning to publish a blog post on a static website (using GitHub) 
+- **Visit to the BM, Besançon to see manuscripts**
 
 ## Thursday, January 19, 2023
-- **Morning: visit to the BM, Besançon to see manuscripts**
-- **[Afternoon (1400-1600 France Time)](https://docs.google.com/presentation/d/1y0dz6NGHp30ahmsTdyk5FRlv9RGnEb6X/edit?usp=share_link&ouid=102504427829552033927&rtpof=true&sd=true)**
+- **[1400-1600 France Time](https://docs.google.com/presentation/d/1y0dz6NGHp30ahmsTdyk5FRlv9RGnEb6X/edit?usp=share_link&ouid=102504427829552033927&rtpof=true&sd=true)**
     - General discussion about modes of transcription and abbreviations found.
     - Present the results of the retrained model with PyLaia with diff checker
     - General discussion of the output of model: progress? Overfitting? 

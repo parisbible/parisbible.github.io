@@ -97,31 +97,36 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
     - Learning to publish a blog post on a static website (using GitHub) 
 - **Visit to the BM, Besançon to see manuscripts**
 
-## Thursday, January 19, 2023
-- **[1400-1600 France Time](https://docs.google.com/presentation/d/1y0dz6NGHp30ahmsTdyk5FRlv9RGnEb6X/edit?usp=share_link&ouid=102504427829552033927&rtpof=true&sd=true)**
-    - General discussion about modes of transcription and abbreviations found.
-    - Present the results of the retrained model with PyLaia with diff checker
-    - General discussion of the output of model: progress? Overfitting? 
-    - Taking notes & drafting blog posts
+## Thursday, January 19, 2023 ([1400-1600 France Time](https://docs.google.com/presentation/d/1y0dz6NGHp30ahmsTdyk5FRlv9RGnEb6X/edit?usp=share_link&ouid=102504427829552033927&rtpof=true&sd=true))
+- General discussion about modes of transcription and abbreviations found.
+- Looking at [MUFI](https://folk.uib.no/hnooh/mufi/specs/MUFI-Alphabetic-4-0.pdf) 
+- Present the results of the retrained model with PyLaia across manuscripts with diff checker
+- General discussion of the output of model: progress? Overfitting? 
+- Working with tools:
+    - [AntConc](https://www.laurenceanthony.net/software/antconc/). For videos to learn AntConc, see [week 3 of DJW's course](https://sites.google.com/nyu.edu/rlac-f22/schedule?authuser=0).
+    - [Voyant](voyant-tools.org)
+- [Taking notes](https://docs.google.com/document/d/11e-UHyCCC17JywotoCzZM7Es5gX2A9SR9LHoqGhXsbw/edit?usp=sharing) & [drafting blog posts](https://drive.google.com/drive/folders/1QZsmaLw27YfZFZej5bJEHZnRw7QYBl0f?usp=sharing) (1 per team)
 
 
 ## Friday, January 20, 2023 (1400-1700 France Time) [Discussion](https://docs.google.com/presentation/d/1poYo9XMf9x9HWzJTEw3oBZS0NvocdOj9/edit#slide=id.g106cc1ecc18_0_12)
 - What we can do with the data produced
-    - Presenting the next steps of the project, PCA with the mss worked on.
+    - Presenting the next steps of the project, PCA with the mss worked on and comparison with other manuscripts.
     - Proposing a description of a scribal profile.
 - Writing session
-    - Co-authoring a short description of the manuscript (including abbreviations, characters, illuminations, decorative features) to be published as a blog post on the PBP website.
+    - Co-authoring a short description of the manuscript (including abbreviations, characters, illuminations, decorative features) to be published as a [blog post](https://drive.google.com/drive/folders/1QZsmaLw27YfZFZej5bJEHZnRw7QYBl0f?usp=sharing) on the PBP website.
 - Publication
     - Publish one of the blog posts in real-time
     - Publish corrected ground truth at PBP and HTR United with names and ORCID
 - Images: what have we learned from the annotation of images? 
 
 
+## Early February: Publishing the GT 
+
 ## Mid-February: remote session with the jury 
 
 # Organization
 ## Teams
-- Number of teams: 6
+- Number of teams: 7
 - Number of people per team: 3
 
 ## Material
@@ -142,6 +147,12 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 
 
 ## [Guidelines](https://parisbible.github.io/guidelines/)
+
+## Useful Links
+- [Guidelines](https://parisbible.github.io/guidelines/)
+- [Paris Bible image tagging dashboard](http://139.18.13.175:8080/)
+- [Vulgate Bible (in Latin)](http://www.thelatinlibrary.com/bible.html)
+
 
 ## Jury
 TBC

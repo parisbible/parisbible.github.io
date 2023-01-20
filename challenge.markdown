@@ -173,3 +173,8 @@ TBC
 - Add ground truth to the collection.
 - Blog posts by research groups
 - Citation of all participants (with their ORCID) on the website, in the HTR united record, on Github and any other relevant platform/publication resulting from the challenge.
+
+
+# Acknowledgments
+We would like to acknowledge and thank all the students from the "Digital Humanities and Book History" Master and the "Editions Numériques et Patrimoine de l'Antiquité" master at the Université de Franche-Comté who participated in the course and challenge:
+Robert Lloyd, Gauri Bhagwat, Alice Fournier, Amanda Robin Hemmons, Alexandre Keyes, Lucia Sol Bezzecchi Petroff, Marie Noirot, Anna Chemisova, Benedicta Arthur, Sharon Guerra, Nina Jacobson, Sumeyye Topkara, Sonaj Kailas, Kateri Soulard, Jesus David Macchi Franco, Elia Coulot, Serhat Acar, Úna Faller, and Diego Rodriguez.

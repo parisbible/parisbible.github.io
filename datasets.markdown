@@ -38,11 +38,11 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 
 # Transcriptions
 
-- **60** pages of ground truth
-- Transcriptions and ground truth are available and downloadable on [Github](https://github.com/parisbible/transcriptions).
+- **186** pages of ground truth
+- Ground truth is available and downloadable on [Github](https://github.com/parisbible/ground_truth).
 
 
 
 <br>
 
-*Last update: 29/08/2022*
+*Last update: 05/02/2023*

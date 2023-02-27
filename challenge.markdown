@@ -120,9 +120,8 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - Images: what have we learned from the annotation of images? 
 
 
-## Early February: Publishing the GT 
+## Early March: Publishing the GT 
 
-## Mid-February: remote session with the jury 
 
 # Organization
 ## Teams
@@ -153,9 +152,6 @@ We propose a "correct-a-thon" at the Université de Franche-Comté in January 20
 - [Paris Bible image tagging dashboard](http://139.18.13.175:8080/)
 - [Vulgate Bible (in Latin)](http://www.thelatinlibrary.com/bible.html)
 
-
-## Jury
-TBC
 
 ## Criteria for judging
 - Accuracy of correction (40%)

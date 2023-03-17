@@ -25,4 +25,4 @@ In 2023, the team will present the project at:
 
 <br>
 
-Do not hesitate to reach out!
+Don't hesitate to reach out!

@@ -15,6 +15,7 @@ The project was started by Estelle Guéville and David Joseph Wrisley (NYU Abu D
 <img src="/assets/2022_Identity_EGE.jpg" alt="Guéville_Picturecut" style="zoom:17%;" />	**[Estelle Guéville](https://estellegvl.github.io/)** ([@EstelleGvl](https://twitter.com/EstelleGvl))
 
 Before joining Yale's PhD program in Medieval Studies in 2022, Estelle worked as Assistant Curator and Researcher in several institutions in France and in the Gulf. At the Louvre Abu Dhabi, she, amongst other responsibilities, developed academic research in various fields, including research on medieval collections using digital methods. Her research interests include the qualitative and quantitative study of manuscripts, as well as questions of authorship, attribution and copy. As a medievalist, she is interested in applying digital methods and comparative approaches for the study of manuscripts.
+TEST
 
 
 

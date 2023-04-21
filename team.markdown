@@ -34,4 +34,11 @@ He is an art history major and Student Research Assistant at NYU Abu Dhabi. Afte
 
 <br>
 
+
+<img src="/assets/2022_arh.jpg" alt="Amanda-Robin-image" style="zoom:" /> **[Amanda Robin Hemmons](https://amanda2robin.github.io/)**
+
+Amanda Robin is a master degree student at the UBFC RBDH. 
+
+<br>
+
 For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)

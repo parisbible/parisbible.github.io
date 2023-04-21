@@ -35,7 +35,7 @@ He is an art history major and Student Research Assistant at NYU Abu Dhabi. Afte
 <br>
 
 
-<img src="/assets/img_arh.jpg" alt="Amanda-Robin-image" style="zoom:11%;" /> **[Amanda Robin Hemmons](https://amanda2robin.github.io/)**
+<img src="/assets/img_arh.jpg" alt="Amanda-Robin-image" style="zoom:10%;" /> **[Amanda Robin Hemmons](https://amanda2robin.github.io/)**
 
 She is a masters degree student at the University of Franche Comte, studying Rare Books and Digital Humanities. Before living in France, she studied visual arts at the University of Washington in Seattle, and has an interest in digitisation and image analysis. Her current focus is on the study of stylography and its usage in determining authorship. 
 

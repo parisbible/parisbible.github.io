@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Paris Bible Challenge at the Université de Franche-Comté (January 2023)
-permalink: /challenge/
+title: Paris Bible Correct-a-thon at the Université de Franche-Comté (January 2023)
+permalink: /correct-a-thon/
 --- 
 
 0. this unordered seed list will be replaced by toc as unordered list

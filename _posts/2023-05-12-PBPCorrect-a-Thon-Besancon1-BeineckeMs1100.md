@@ -3,7 +3,7 @@ layout: post
 title: "PBP Correct-a-thon Besançon #1: the case of Beinecke MS 1100"
 subtitle: Scribal Differences and Abbreviation Ambiguities in Beinecke MS 1100 
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP; Correct-a-thon]
+tags: [PBP ; Correct-a-thon]
 comments: false
 ---
 <base target="_blank">

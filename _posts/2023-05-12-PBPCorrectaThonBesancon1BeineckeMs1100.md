@@ -8,7 +8,7 @@ comments: false
 ---
 <base target="_blank">
 
-# PBP Correct-a-Thon Besançon: Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100 
+# Scribal Differences and Abbreviation Ambiguities in 13th-Century Beinecke MS 1100 
 
 <br>
 

@@ -53,5 +53,5 @@ You can also consult the bibliography of the project on [Zotero](https://www.zot
 
 ### **Suggested citation**
 
-Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (12 October 2022). [Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles](https://parisbible.github.io/2022-10-12-bristol-conf/). *Paris Bible Project*.
+Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (16 September 2021). [Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles](https://parisbible.github.io/2022-10-12-bristol-conf/). *Paris Bible Project*.
 

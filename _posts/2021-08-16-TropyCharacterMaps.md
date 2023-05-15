@@ -3,7 +3,7 @@ layout: post
 title: "Tropy and Character Maps: image-based research"
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [PBP , software]
 comments: false
 ---
 <base target="_blank">

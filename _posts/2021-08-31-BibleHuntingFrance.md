@@ -3,7 +3,7 @@ layout: post
 title: "Bible hunting: where to find data? The case of France. A series"
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [bible hunting, France , BnF , biblissima]
 comments: false
 ---
 

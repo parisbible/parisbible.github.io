@@ -3,7 +3,7 @@ layout: post
 title: Bible Hunting. Where to find data? The case of Italy and the Vatican
 subtitle:
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [bible hunting , Italy ,  Vatican]
 comments: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Paris Bible Project and Transkribus: the Virtual Keyboard"
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [PBP , software]
 comments: false
 ---
 <base target="_blank">

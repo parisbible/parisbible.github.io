@@ -3,7 +3,7 @@ layout: post
 title: Abstract - Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles 
 subtitle: Bristol Conference, 16 September 2021
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [PBP , conference , abstract]
 comments: false
 ---
 

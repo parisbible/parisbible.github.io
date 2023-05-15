@@ -3,7 +3,7 @@ layout: post
 title: "The Paris Bible Project and Transkribus: Getting Started"
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-tags: [PBP]
+tags: [PBP , software]
 comments: false
 ---
 

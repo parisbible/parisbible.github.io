@@ -7,7 +7,7 @@ tags: [PBP , conference , abstract]
 comments: false
 ---
 
-## Bristol Conference, 16 September 2021
+**Bristol Conference, 16 September 2021**
 **Niccolò N. Cappelletto, Estelle Guéville and David J. Wrisley**
 
 *Keywords:* Handwritten Text Recognition (HTR); medieval Latin Bibles; Paris Bibles; pasts of digitization; digital humanities; fragmentology

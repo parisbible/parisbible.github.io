@@ -7,11 +7,13 @@ tags: [PBP , conference , abstract]
 comments: false
 ---
 
+## Bristol Conference, 16 September 2021
+
 *Keywords:* Handwritten Text Recognition (HTR); medieval Latin Bibles; Paris Bibles; pasts of digitization; digital humanities; fragmentology
 
 <br>
 
-*Abstract:*
+## Abstract
 
 We do not typically think about past eras of digitization as the agent of manuscript fragmentation. We also don't think of digitizers as physically breaking manuscripts, dispersing them in the world, but rather as creators of "digital fragments" (Burrows, 2017).
 
@@ -53,5 +55,5 @@ You can also consult the bibliography of the project on [Zotero](https://www.zot
 
 ### **Suggested citation**
 
-Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (16 September 2021). [Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles](https://parisbible.github.io/2022-10-12-bristol-conf/). *Paris Bible Project*.
+Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (16 September 2021). [Abstract - Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles](https://parisbible.github.io/2022-10-12-bristol-conf/). *Paris Bible Project*.
 

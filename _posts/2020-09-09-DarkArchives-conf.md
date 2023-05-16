@@ -7,7 +7,12 @@ tags: [PBP , conference , abstract]
 comments: false
 ---
 
-*Abstract:*
+## Dark Archives conference, Oxford, 9 September 2020
+**Estelle Guéville and David J. Wrisley**
+
+<br>
+
+## Abstract
 
 Every medievalist will recognize barriers to access (time, distance, paleographic skill, condition) and how digitization has expanded the way we work. It is possible to view facsimiles on the other side of the world (say, in Abu Dhabi). Inaccessibility in 2020 has not only been a question of distance from physical archives, but also from the recognizable infrastructures in which we work (offices, libraries, print-only resources).
 

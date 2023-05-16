@@ -8,6 +8,7 @@ comments: false
 ---
 
 ## Bristol Conference, 16 September 2021
+**Estelle Guéville and David J. Wrisley**
 
 *Keywords:* Handwritten Text Recognition (HTR); medieval Latin Bibles; Paris Bibles; pasts of digitization; digital humanities; fragmentology
 

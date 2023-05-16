@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstract - Rethinking the Abbreviation. Questions and cCallenges of Machine Reading Medieval Scripta
+title: Abstract - Rethinking the Abbreviation. Questions and Callenges of Machine Reading Medieval Scripta
 subtitle: Dark Archives conference, Oxford, 9 September 2020
 gh-repo: daattali/beautiful-jekyll
 tags: [PBP , conference , abstract]

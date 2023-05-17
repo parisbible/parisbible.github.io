@@ -58,7 +58,7 @@ Note also how the handwriting appears more compact, the letters and ink more den
 | “gͦ”   | U+0366 | igitur or ergo | Ambiguous | Meaning unclear from the information |
 | ‘r’ and ‘n’ following each other | ‘r’ and ‘n’ | “m” | Gothic script density | Often mistaken for an ‘m’ |
 | ‘;’    | U+003B | “us” or “ue” | End of a word | Sometimes written as ‘ꝫ’ and sometimes as “;” |
-| Superscript tilde | U+0303 | Above letters other than “t” | | Occurs above letters such as “x” and “u” |
+| Superscript tilde | U+0303 |  | Above letters other than “t” | Occurs above letters such as “x” and “u” |
 
 <br>
 

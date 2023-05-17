@@ -48,21 +48,21 @@ Note also how the handwriting appears more compact, the letters and ink more den
 
 ### Table of abbreviation ambiguities: examples of AI overfitting ?
 
-| Symbol | Meaning | Usage | Note |
-| ------ | ------- | ----- | ---- |
-| “et”   | “and”   | Beginning of sentence | Written out fully |
-| ‘⁊’    | “and”   | Middle/end of sentence | Often mistaken for ‘ꝯ’ |
-| “ꝫ”   | “m”     | p. 11 section 1, l.6 | First time used in the text |
-| “aīa”  | “anima” | Compound letters | Macron can often compound letters ‘m’ and ‘n’ |
-| ‘⁊’ and ‘ꝯ’ | “and” | Mistaken for one another | AI overfitting issue |
-| “gͦ”   | igitur or ergo | Ambiguous | Meaning unclear from the information |
-| ‘r’ and ‘n’ following each other | “m” | Gothic script density | Often mistaken for an ‘m’ |
-| ‘;’    | “us” or “ue” | End of a word | Sometimes written as ‘ꝫ’ and sometimes as “;” |
-| Superscript “squiggle” | Above letters other than “t” | | Occurs above letters such as “x” and “u” |
+| In the text | Composed of | Meaning | Usage | Note |
+| ------ | ------- | ----- | ---- | ----- |
+| “et”   | et | “and”   | Beginning of sentence | Written out fully |
+| ‘⁊’    | U+204A | “and”   | Middle/end of sentence | Often mistaken for ‘ꝯ’ |
+| “ꝫ”   | U+A76B | “m”     | p. 11 section 1, l.6 | First time used in the text |
+| “aīa”  | U+0304 | “anima” | Compound letters | Macron can often compound letters ‘m’ and ‘n’ |
+| ⁊ and ‘ꝯ’ | U+A76F | “and” | Mistaken for one another | AI overfitting issue |
+| “gͦ”   | U+0366 | igitur or ergo | Ambiguous | Meaning unclear from the information |
+| ‘r’ and ‘n’ following each other | ‘r’ and ‘n’ | “m” | Gothic script density | Often mistaken for an ‘m’ |
+| ‘;’    | U+003B | “us” or “ue” | End of a word | Sometimes written as ‘ꝫ’ and sometimes as “;” |
+| Superscript tilde | U+0303 | Above letters other than “t” | | Occurs above letters such as “x” and “u” |
 
 <br>
 
-With regards to abbreviations, the most interesting observation we made by far has to do with the ambiguity surrounding the abbreviations ‘ꝫ’ and ‘;’. The unicode character ‘ꝫ’ (A76B)  is usually used, as described in the [Transcription Guidelines](https://parisbible.github.io/guidelines/), to denote the letter combinations ‘ue’ and ‘us’, often found right after the letter ‘q’. The unicode character ‘;’ (003B) stands for a semi-colon. In Genesis, in some instances, the two are used interchangeably: on 7r, the ‘ꝫ’ is written starkly as a ‘;’ (see Fig.4) but on 6v, in the first column, second to last line, it appears as a normal ‘ꝫ’ (see Fig.5). 
+With regards to abbreviations, the most interesting observation we made by far has to do with the ambiguity surrounding the abbreviations ‘ꝫ’ and ‘;’. The unicode character ‘ꝫ’ is usually used, as described in the [Transcription Guidelines](https://parisbible.github.io/guidelines/), to denote the letter combinations ‘ue’ and ‘us’, often found right after the letter ‘q’. The unicode character ‘;’ stands for a semi-colon. In Genesis, in some instances, the two are used interchangeably: on 7r, the ‘ꝫ’ is written starkly as a ‘;’ (see Fig.4) but on 6v, in the first column, second to last line, it appears as a normal ‘ꝫ’ (see Fig.5). 
 
 ![Figure 4: Example of “ꝫ” written as ; and ꝫ on page 6v and 7r in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure4.png)
 

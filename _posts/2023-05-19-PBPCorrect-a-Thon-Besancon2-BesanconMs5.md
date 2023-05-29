@@ -14,7 +14,7 @@ comments: false
 <p>
 <img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" /> 
 <br>
-Fig. 1. Ms 5 of the Bibliothèque Municipale de Besançon
+Fig. 1. Bibliothèque Municipale de Besançon, ms 5
 </p>
   <br>
 <br>
@@ -29,14 +29,14 @@ In this post, we intend to describe the revision process of the automatically ge
 <p>
 <img src="/assets/PBP_MS5_Bible.png" style="zoom:100%;" /> 
 <br>
-Fig. 2. Photo by David Joseph Wrisley
+Fig. 2. The front cover and spine of BM Besançon, ms 5, Photo by David Joseph Wrisley
   </p>
 <br>
 <br>
 
 ## Physical description of the BM Besançon Ms 5
 
-The pages we transcribed came from a Bible held by the Besançon Municipal Library, described in the catalog as  *Ms 5 - Biblia sacra, ex translatine S. Hieronymi, cum epistola ad Paulinum, prologhi et capitulis*. It is a rather large volume 369x260mm, with a weight close to 4 kilograms. The cover and the later binding is in leather on wooden boards sealed with bolts (some of which are missing on the upper board), in a rather degraded condition.The manuscript's vellum, uneven in their original density, is somewhat warped, giving a wavy appearance to the book's spine. It is certainly these deformations that have caused the distortion of the text lines over time. We started to transcribe page 9, at  the beginning of Genesis. This page is characterized by a rubric, an inscription in red characters at the beginning of the text. This is followed by a long illumination made for the Lettrine of the first sentence, *Incipit principio*. This decoration is done in a repetitive floral pattern, apparently rinceaux, which is combined with two additional branches, one at the top of the text and one at the bottom, both starting with griffins, half lion and half bird. [Mémoire Vive Besançon.](https://memoirevive.besancon.fr/ark:/48565/89v21z4370ns)
+The pages we transcribed came from a Bible held by the Besançon Municipal Library, described in the catalog as  *Ms 5 - Biblia sacra, ex translatine S. Hieronymi, cum epistola ad Paulinum, prologhi et capitulis*. It is a rather large volume measuring 369x260mm, with a weight close to 4 kilograms. The cover and the later binding is in leather on wooden boards sealed with bolts (some of which are missing on the upper board), in a rather degraded condition. The manuscript's vellum, uneven in their original density, is somewhat warped, giving a wavy appearance to the book's spine. It is certainly these deformations that have caused the distortion of the text lines over time. We started to transcribe page 9, at the beginning of Genesis. This page is characterized by a rubric, an inscription in red characters at the beginning of the text. This is followed by a long illumination made for the Lettrine of the first sentence, *In principio creauit*. This decoration is done in a repetitive floral pattern, apparently rinceaux, which is combined with two additional branches, one at the top of the text and one at the bottom, both starting with griffins, half lion and half bird. [Mémoire Vive Besançon.](https://memoirevive.besancon.fr/ark:/48565/89v21z4370ns)
 
 
 ## The revision of the transcriptions
@@ -47,7 +47,7 @@ During the correct-a-thon, we compared the transcription produced by the model a
 <p>
 <img src="/assets/PBP_MS5_Visuel.png" style="zoom:100%;" />
 <br>
-Fig. 3. Genesis transcription wordcloud of the most common abbreviations
+Fig. 3. Word cloud of the most common abbreviations in the transcription of Genesis from BM Besançon 5. Visualized in Voyant.
   </p>
 <br>
 <br>
@@ -62,7 +62,7 @@ Regarding the generation of text regions, our team encountered a major problem, 
 <p>
 <img src="/assets/PBP_MS5_Trkb.png" style="zoom:100%;" />
 <br>
-Fig. 4. Transkribus Expert Client
+Fig. 4. BM Besançon 5 visualized in the Transkribus Expert Client with the pop up virtual keyboard.
   </p>
 <br>
 <br>
@@ -78,7 +78,7 @@ An analysis of the text of the manuscript with that of the editions of the Vulga
 <p>
 <img src="/assets/PBP_MS5_Page_9.png" style="zoom:100%;" />
 <br>
-Fig. 5. Genesis first column page 9
+Fig. 5. BM Besançon 5, Genesis first column, page 9.
   </p>
 <br>
 <br>

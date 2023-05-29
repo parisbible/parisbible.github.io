@@ -21,7 +21,7 @@ Fig. 1. Bibliothèque Municipale de Besançon, ms 5
 
 ## Introduction
 
-This blogpost was written in the context of the Paris Bible Challenge which took place in Besançon, France in January 2023. 
+This post was written in the context of the Paris Bible Correct-a-thon which took place in Besançon, France in January 2023. 
 
 In this post, we intend to describe the revision process of the automatically generated transcriptions of two text columns in  Besançon Ms 5. These transcriptions were obtained through the application of the Paris Bible Project model for Tranksribus (PBP 2.1) 
 

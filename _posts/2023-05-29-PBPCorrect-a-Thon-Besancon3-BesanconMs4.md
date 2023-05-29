@@ -10,7 +10,7 @@ comments: false
 
 # **PBP Correct-a-thon Besançon 2023: Besançon Ms 4**
 
-This blogpost was written in the context of the Paris Bible Challenge which took place in Besançon, France in January 2023. 
+This post was written in the context of the Paris Bible Correct-a-thon which took place in Besançon, France in January 2023. 
 
 ## Encountering the AI and the Bible
  

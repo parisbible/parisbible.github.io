@@ -38,7 +38,7 @@ Fig. 2: Example of “regular” letters on the bottom line of Beinecke MS 1100,
 
 ![Figure 3: Example of long letters at the bottom line of 7v in the Beinecke MS 1100 manuscript.](/assets/PBP_Beinecke1100_Figure3.png)
 <br>
-Fig. 3: Example of long letters on the bottom line of Beinecke MS 1100, folio 7v.
+Fig. 3: Example of descenders in the bottom line of Beinecke MS 1100, folio 7v.
 
 <br>
 

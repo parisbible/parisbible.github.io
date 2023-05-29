@@ -23,7 +23,7 @@ Fig. 1. Bibliothèque Municipale de Besançon, ms 5
 
 This post was written in the context of the Paris Bible Correct-a-thon which took place in Besançon, France in January 2023. 
 
-In this post, we intend to describe the revision process of the automatically generated transcriptions of two text columns in  Besançon Ms 5. These transcriptions were obtained through the application of the Paris Bible Project model for Tranksribus (PBP 2.1) 
+In this post, we intend to describe the revision process of the automatically generated transcriptions of two text columns in BM Besançon Ms 5. These transcriptions were obtained through the application of the Paris Bible Project model for Tranksribus (PBP 2.1) 
 
 <br>
 <p>
@@ -36,7 +36,7 @@ Fig. 2. The front cover and spine of BM Besançon, ms 5, Photo by David Joseph W
 
 ## Physical description of the BM Besançon Ms 5
 
-The pages we transcribed came from a Bible held by the Besançon Municipal Library, described in the catalog as  *Ms 5 - Biblia sacra, ex translatine S. Hieronymi, cum epistola ad Paulinum, prologhi et capitulis*. It is a rather large volume measuring 369x260mm, with a weight close to 4 kilograms. The cover and the later binding is in leather on wooden boards sealed with bolts (some of which are missing on the upper board), in a rather degraded condition. The manuscript's vellum, uneven in their original density, is somewhat warped, giving a wavy appearance to the book's spine. It is certainly these deformations that have caused the distortion of the text lines over time. We started to transcribe page 9, at the beginning of Genesis. This page is characterized by a rubric, an inscription in red characters at the beginning of the text. This is followed by a long illumination made for the Lettrine of the first sentence, *In principio creauit*. This decoration is done in a repetitive floral pattern, apparently rinceaux, which is combined with two additional branches, one at the top of the text and one at the bottom, both starting with griffins, half lion and half bird. [Mémoire Vive Besançon.](https://memoirevive.besancon.fr/ark:/48565/89v21z4370ns)
+The pages we transcribed came from a Bible held by the Besançon Municipal Library, described in the catalog as  *Ms 5 - Biblia sacra, ex translatine S. Hieronymi, cum epistola ad Paulinum, prologhi et capitulis*. It is a rather large volume measuring 369x260mm, with a weight close to 4 kilograms. The cover and the later binding is in leather on wooden boards sealed with bolts (some of which are missing on the upper board), in a rather degraded condition. The manuscript's vellum, uneven in their original density, is somewhat warped, giving a wavy appearance to the book's spine. It is certainly these deformations that have caused the distortion of the text lines over time. We started to transcribe fol. 6v, at the beginning of Genesis. This page is characterized by a rubric, an inscription in red characters at the beginning of the text. This is followed by a long illumination made for the Lettrine of the first sentence, *In principio creauit*. This decoration is done in a repetitive floral pattern, apparently rinceaux, which is combined with two additional branches, one at the top of the text and one at the bottom, both starting with griffins, half lion and half bird. [Mémoire Vive Besançon.](https://memoirevive.besancon.fr/ark:/48565/89v21z4370ns)
 
 
 ## The revision of the transcriptions
@@ -78,14 +78,14 @@ An analysis of the text of the manuscript with that of the editions of the Vulga
 <p>
 <img src="/assets/PBP_MS5_Page_9.png" style="zoom:100%;" />
 <br>
-Fig. 5. BM Besançon 5, Genesis first column, page 9.
+Fig. 5. BM Besançon 5, Genesis first column, fol. 6v.
   </p>
 <br>
 <br>
 
-| Transcription      | Vulgate Bible |
+| Transcription      | Edited Vulgate Bible |
 | ----------- | ----------- |
-| Expliciunt capitula libri geneſis Incipit pꝛincipio creauit liber geneſis. ꝺeus celū et t́rā. T́ra aut̄ erat inanis ⁊ ua- cua. et tenebꝛe erant ſuꝑ faciē ābyſſi; et ſic̄ ꝺei fėbat˜ ſuꝑ aq˜s. Dixitqꝫ ꝺ́s. Fiat lux. Et ftā eſt lux. Et uiꝺit ꝺ́s lucem ꝙ eēt bōa; et ꝺiuiſit lucē a tenebꝛis. Appella uitqꝫ lucē ꝺiem; et tenebꝛas noctē. Fcm̄ qꝫ ē ueſꝑe et mane; ꝺies unꝰ. Dix̄ quoqꝫ ꝺ́s.| In principio creavit Deus cælum et terram. 2 Terra autem erat inanis et vacua, et tenebræ erant super faciem abyssi: et spiritus Dei ferebatur super aquas. 3 Dixitque Deus: Fiat lux. Et facta est lux. 4 Et vidit Deus lucem quod esset bona: et divisit lucem a tenebris. 5 Appellavitque lucem Diem, et tenebras Noctem: factumque est vespere et mane, dies unus. 6 Dixit quoque Deus.|
+| Expliciunt capitula libri geneſis Incipit liber geneſis. N pꝛincipio creauit ꝺeus celū et t́rā. T́ra aut̄ erat inanis ⁊ ua- cua. et tenebꝛe erant ſuꝑ faciē ābyſſi; et ſic̄ ꝺei fėbat˜ ſuꝑ aq˜s. Dixitqꝫ ꝺ́s. Fiat lux. Et ftā eſt lux. Et uiꝺit ꝺ́s lucem ꝙ eēt bōa; et ꝺiuiſit lucē a tenebꝛis. Appella uitqꝫ lucē ꝺiem; et tenebꝛas noctē. Fcm̄ qꝫ ē ueſꝑe et mane; ꝺies unꝰ. Dix̄ quoqꝫ ꝺ́s.| In principio creavit Deus cælum et terram. 2 Terra autem erat inanis et vacua, et tenebræ erant super faciem abyssi: et spiritus Dei ferebatur super aquas. 3 Dixitque Deus: Fiat lux. Et facta est lux. 4 Et vidit Deus lucem quod esset bona: et divisit lucem a tenebris. 5 Appellavitque lucem Diem, et tenebras Noctem: factumque est vespere et mane, dies unus. 6 Dixit quoque Deus.|
 
 
 ## Conclusions
@@ -100,6 +100,3 @@ Kateri Soulard, Sonaj Kailas, David Macchi.
 
 ## Suggested Citation
 Soulard, Kateri; Kailas, Sonaj; Macchi, David. (19 May 2023). PBP Correct-a-thon Besançon: Besançon Ms 5.  *Paris Bible Project.*
-
-
-

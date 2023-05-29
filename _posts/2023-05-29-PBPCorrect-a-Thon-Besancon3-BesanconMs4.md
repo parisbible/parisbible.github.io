@@ -8,25 +8,25 @@ comments: false
 ---
 <base target="_blank">
 
-# **PBP Correct-a-thon Besançon 2023: Besançon Ms 4**
+# **PBP Correct-a-thon Besançon 2023: BM Besançon Ms 4**
 
 This post was written in the context of the Paris Bible Correct-a-thon which took place in Besançon, France in January 2023. 
 
-## Encountering the AI and the Bible
+## Encountering AI and the Bible
  
-The Paris Bible Project (PBP) was an immersive project which took place over a week-long period at the Université de Franche-Comté in January 2023. We worked on Manuscript 4 (MS4) from Bibliothèque Municipale de Besançon, a Bible thought to be written by a Franciscan monk in the middle of the 13th century.  
+The Paris Bible Project (PBP) was a week long immersive project at the Université de Franche-Comté in January 2023. We worked on Manuscript 4 (ms 4) from Bibliothèque Municipale de Besançon, a Bible thought to be written by a Franciscan monk in the middle of the 13th century.  
 
 <p>
 <img src="/assets/PBP_Bes4_bible1.png" style="zoom:100%;" />
  <br>
- Fig.1: Besançon Ms 4
+ Fig.1: BM Besançon Ms 4
  </p>
 
-Our first impression was that this wasn’t a luxurious or illustrious copy. It isn't richly illustrated except for the initials of each book. All chapters start with simple red initials that are spreading toward the marginalia in the form of small plants and flowers. The writer's hand demonstrated a pretty clear gothic script which was uniform and clear. Adjusting to reading this hand was challenging, but because of the uniformity it became easier. In MS4, we didn’t have the beginning of Genesis in Transkribus - a mystery which we solved later in our visit to Bibliothèque Municipale de Besançon. 
+Our first impression was that this wasn’t a luxurious or illustrious copy. It isn't richly illustrated except for the initials of each book. All chapters start with simple red initials that are spreading toward the marginalia in the form of small plants and flowers. The writer's hand demonstrated a pretty clear gothic script which was uniform and clear. Adjusting to reading this hand was challenging, but because of the uniformity it became easier. In MS 4, we didn’t find the beginning of Genesis - a mystery which we solved later in our visit to Bibliothèque Municipale de Besançon when we were able to see this manuscript up close. 
 
-Encountering a handwritten bible transcribed by the AI was a new experience for us, which meant we had to tackle problems without any previous experience. Engaging an ancient document through the AI is interesting because it requires finding common ground between the manuscript, the reference bible, and AI’s transcription, which made us suspicious of each document after a while. Once we found common ground between these documents, it became easier to correct the bible.
+Encountering a handwritten bible transcribed by AI was a new experience for us, which meant we had to tackle problems without any previous experience. Engaging an ancient document through AI is interesting because it requires finding common ground between the manuscript, the reference bible transcription, and transcription from Transkribus, which made us suspicious of each document after a while. Once we found common ground between these documents, it became easier to correct the transcription.
  
-In the beginning we were confused why some 'i' letters had a mark. After reading half of the page, we realized that the scribe used 'i'  with a mark when the word contained "u", 'm", or 'n'. An obvious attempt to help the reader distinguish between letters - confusing to our untrained and print-obsessed eyes. The AI wasn't effective in identifying these characters either, leading to numerous errors in words with these letters.
+In the beginning we were confused why some 'i' letters had a mark. After reading half of the page, we realized that the scribe used "i" with a mark when the word contained "u", "m", or "n". An obvious attempt to help the reader distinguish between the minims - confusing to our untrained and print-obsessed eyes. The AI wasn't effective in identifying these characters either, leading to numerous errors in words with these letters.
 
 <p>
 <img src="/assets/PBP_Bes4_markingi.png" style="zoom:100%;" />
@@ -34,11 +34,11 @@ In the beginning we were confused why some 'i' letters had a mark. After reading
  Fig.2: Recognizing different letters
  </p>
  
-Another interesting AI challenge in our bible touched the layout. Because of the marginalia, AI sometimes transcribed things not included in the text by generating new lines of writing with only a single letter. This was interesting as it made us question how potentially sensitive the AI regarding layout creation and the transcription processes. 
+Another interesting AI challenge in our bible concerned the layout. Because of the marginalia, sometimes the layout analysis included things not a part of the text by generating new lines of writing with only a single letter. This was interesting as it made us question how potentially sensitive the AI regarding layout creation and the transcription processes. 
 
 | **Marginalia**                  | **Transcription**                 | **Explanation** | 
 | ----------------------------| ---------------------         | ------------------ | 
-| ![gletter](/assets/PBP_Bes4_g-marginalia.jpg)| ![gletter](/assets/PBP_Bes4_gtranscription.jpg)| Here, the AI recognized the little flower on the marginalia as letter 'g'.(Fol.6) |
+| ![gletter](/assets/PBP_Bes4_g-marginalia.jpg)| ![gletter](/assets/PBP_Bes4_gtranscription.jpg)| Here, the AI recognized the little flourish in the margins as the letter 'g'.(Fol.6) |
 | ![iletter](/assets/PBP_Bes4_imarg.jpg)       | ![iletter](/assets/PBP_Bes4_itra.jpg)          |  Here, the AI recognized another pattern as letter 'i' (Fol.6)    | 
 | ![questionmark](/assets/PBP_Bes4_qmtr.jpg)   | ![questionmark](/assets/PBP_Bes4_qmai.jpg)     | Here, the AI combines the marginalia with the punctuation and we can see a question mark at the end of the sentence. (Fol.6) 
 
@@ -46,17 +46,17 @@ The occurrence of these errors made us more diligent as we progressed with our c
 
 ## Teamwork and Transcription 
 
-Conducting this work required us to utilise an [online text](https://www.sacred-texts.com/bib/vul/gen001.htm) of Genesis as a point of reference for comparison with our manuscript. This is a significant aspect to highlight, having a reference text allowed us to overcome the challenge of not having extensive knowledge in the area and helped us to make informed decisions in our analysis. 
+Conducting this work required us to utilise an [online text](https://www.sacred-texts.com/bib/vul/gen001.htm) of Genesis as a point of reference for comparison with our manuscript. This is a significant aspect to highlight, since having a reference text allowed us to overcome the challenge of not having extensive knowledge of the Biblical text and helped us to make informed decisions in our analysis. 
 <br>
-The easily readable handwriting of the scribe made our analysis more efficient and allowed us to comprehend the text with greater clarity. We still had difficulties with the abbreviations inside the text, not only because of our unfamiliarity with paleography, but because of the different ways in which the same word could be abbreviated.
+The quite readable handwriting of the scribe made our analysis more efficient and allowed us to comprehend the text with greater clarity. We still had difficulties with the abbreviations inside the text, not only because of our unfamiliarity with paleography, but because of the different ways in which the same word could be abbreviated.
 
 <p>
 <img src="/assets/PBP_Bes4_abbre.jpg" style="zoom:100%;" />
  <br>
- Fig.3: Two different abbreviations of "præesset" in the same line: preēēt and p̄eēt.(Fol.5)
+ Fig.3: Two different abbreviations of "præesset" in the same line: preēēt and p̄eēt. (Fol.5)
  </p>
 
-One of the things that caught our attention while transcribing were the symbolic variants, since sometimes they did not seem to correspond to the symbols in the guidelines that had been provided to us. In the following picture, you can see two abbreviations for *que* and *us*. We had to transcribe both as '3', while the scribe was making a clear distinction between two (Fol.5): 
+One of the things that caught our attention while transcribing were the symbolic variants, since sometimes they did not seem to correspond to the symbols in the guidelines that had been provided to us. In the following picture, you can see two abbreviations for *que* and *us*. Using the [transcription guidelines](https://parisbible.github.io/guidelines/), we were encouraged to transcribe both as '3', while the scribe was making a clear distinction between two (Fol.5): 
 
 <p>
 <img src="/assets/PBP_Bes4_que.jpg" style="zoom:100%;" />
@@ -77,7 +77,7 @@ What was fascinating about this manuscript was observing the scribe's efforts to
 <p>
 <img src="/assets/PBP_Bes4_numbers.jpeg" style="zoom:100%;" />
  <br>
- Fig.6: Roman numeral usage
+ Fig.6: Roman numeral usage in BM Besançon ms 4
  </p>
 
 It was challenging to come up with symbols for these numbers through the transcription guideline, and we had to come up with the best corrections possible. 
@@ -99,7 +99,7 @@ It was challenging to correct the transcription when a word disappears to only a
 <p>
 <img src="/assets/PBP_Bes4_script.png" style="zoom:100%;" />   <img src="/assets/PBP_Bes4_hand.png" style="zoom:100%;" /> 
  <br>
-Fig.7&8: Different hand examples
+Fig.7&8: Different hand examples. The main text block (above) and the correction (below)
  </p>
  
 Normally "Multiplicabo ærumnas tuas, et conceptus tuos" should appear right after "dixit." Later, the mysterious hand pointed out the mistake by putting a *+* next to the line and they wrote the missing part to the bottom marginalia. Sometimes, they correct it right next to the line(Fol.6):
@@ -121,7 +121,7 @@ The scribe's mistakes and the appearance of the mysterious hand created a differ
 <p>
 <img src="/assets/PBP_Bes4_bible2.png" style="zoom:100%;" />
  <br>
-Fig.10: Besançon Ms 4, last page of Genesis and first page of Exodus
+Fig.10: BM Besançon Ms 4, last page of Genesis and first page of Exodus
  </p>
 
 We went to visit the Bibliothèque Municipale de Besançon halfway through the week. It was good for a change of pace, and we were privileged enough to see the physical copies of some of the bibles that we had been working on. Viewing the raw material allowed us to view the book as an object in and of itself rather than just experience it as a page-by-page scan we could enlarge until it became mere pixels on a screen. We were shown several Paris Bibles that are in the permanent collection of the library. 

@@ -29,14 +29,14 @@ He is Professor of Digital Humanities at NYU Abu Dhabi. His research interests i
 
 <img src="/assets/Cappelletto_Picturecut.jpg" alt="Cappelletto_Picturecut" style="zoom:5%;" />	**Niccolò Acram Cappelletto** ([@niccoacram](https://twitter.com/niccoacram))
 
-He is an art history major and Student Research Assistant at NYU Abu Dhabi. After work experiences in commercial galleries in Venice and Paris, he joined the NYUAD Art Gallery as a Student Curatorial Assistant in 2020. Focused on museum studies and curation, he is interested in issues of inclusivity in museums, new trajectories of art history, and intersections between technology and museum pedagogy.
+He was an art history major and Student Research Assistant at NYU Abu Dhabi. After work experiences in commercial galleries in Venice and Paris, he joined the NYUAD Art Gallery as a Student Curatorial Assistant in 2020. Focused on museum studies and curation, he is interested in issues of inclusivity in museums, new trajectories of art history, and intersections between technology and museum pedagogy.
 
 <br>
 
 
 <img src="/assets/img_arh.jpg" alt="Amanda-Robin-image" style="zoom:10%;" /> **[Amanda Robin Hemmons](https://amanda2robin.github.io/)**
 
-She is a masters degree student at the University of Franche-Comté, studying Rare Books and Digital Humanities. Before living in France, she studied visual arts at the University of Washington in Seattle, and has an interest in digitisation and image analysis. Her current focus is on the study of stylography and its usage in determining authorship. 
+She is a masters degree student at the University of Franche-Comté, studying Rare Books and Digital Humanities. Before living in France, she studied visual arts at the University of Washington in Seattle, and has an interest in digitisation and image analysis. Her current focus is on the study of stylometry and its usage in determining authorship. 
 
 <br>
 

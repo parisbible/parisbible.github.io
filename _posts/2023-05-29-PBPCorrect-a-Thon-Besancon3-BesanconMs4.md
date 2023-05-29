@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #3: the case of Besançon Ms 4"
+title: "PBP Correct-a-thon Besançon 2023 #3: the case of Besançon Ms 4"
 subtitle: Paris Bible Project
 gh-repo: daattali/beautiful-jekyll
 tags: [Correct-a-thon , Besançon]
@@ -8,7 +8,7 @@ comments: false
 ---
 <base target="_blank">
 
-# **PBP Correct-a-thon Besançon: Besançon Ms 4**
+# **PBP Correct-a-thon Besançon 2023: Besançon Ms 4**
 
 This blogpost was written in the context of the Paris Bible Challenge which took place in Besançon, France in January 2023. 
 

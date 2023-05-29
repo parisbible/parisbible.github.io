@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PBP Correct-a-thon Besançon #2: the case of BM Besançon Ms 5"
+title: "PBP Correct-a-thon Besançon 2023 #2: the case of BM Besançon Ms 5"
 subtitle: HTR for Paris Bibles at Besançon
 gh-repo: daattali/beautiful-jekyll
 tags: [Correct-a-thon , Besançon]
@@ -9,7 +9,7 @@ comments: false
 <base target="_blank">
 
 
-# **PBP Correct-a-thon Besançon: BM Besançon Ms 5**
+# **PBP Correct-a-thon Besançon 2023: BM Besançon Ms 5**
 <br>
 <p>
 <img src="/assets/PBP_MS5_Bibles.png" style="zoom:100%;" /> 

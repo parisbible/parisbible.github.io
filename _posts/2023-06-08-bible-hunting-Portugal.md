@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bible hunting: Where to find data? The case of Portugal"
-subtitle:.
+subtitle:
 gh-repo: daattali/beautiful-jekyll
 tags: [Bible hunting, Portugal]
 comments: false

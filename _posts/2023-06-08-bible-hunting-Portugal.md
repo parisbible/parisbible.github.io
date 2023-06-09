@@ -47,7 +47,7 @@ In the end it was a matter of chance. One day I was unable to access [the librar
 
 <img src="/assets/biblehunt-portugal-fig4.png" style="zoom:100%;" />
 
-**Fig.3. Libraries at Coimbra University | Bibliotecas da Universidade de Coimbra**
+**Fig.3. Libraries at Coimbra University / Bibliotecas da Universidade de Coimbra**
 
 <br>
 
@@ -57,7 +57,7 @@ No matter, I thought to myself. I’ll just do a general search. But even with t
 
 <img src="/assets/biblehunt-portugal-fig5.png" style="zoom:100%;" />
 
-**Fig.4. Catalog search options | Opções de pesquisa de catálogo**
+**Fig.4. Catalog search options / Opções de pesquisa de catálogo**
 
 <br>
 

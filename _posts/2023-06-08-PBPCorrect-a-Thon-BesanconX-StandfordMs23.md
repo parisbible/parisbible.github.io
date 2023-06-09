@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PBP Correct-a-thon Besançon #4: the case of Stanford Ms 23"
-subtitle:.
+subtitle: 
 gh-repo: daattali/beautiful-jekyll
 tags: [Correct-a-thon , Beinecke , overfitting]
 comments: false

@@ -166,5 +166,4 @@ Benedicta Aurthur, Anna Chemisova, Marie Noirot.
 ## **Suggested citation**
 Arthur, Benedicta, Chemisova, Anna, and Noirot, Marie. (08 June 2023). PBP Correct-a-thon Besançon: Stanford Ms 23. *Paris Bible Project.*
 
-
-
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

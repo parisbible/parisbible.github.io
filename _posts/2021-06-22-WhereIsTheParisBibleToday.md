@@ -58,3 +58,4 @@ Anyone having information about Paris Bibles that we do not have a record of, di
 
 Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. (22 June 2021). [Where is the Paris Bible today?](https://parisbible.github.io/2021-06-22-WhereIsTheParisBibleToday/) *Paris Bible Project.*
 
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

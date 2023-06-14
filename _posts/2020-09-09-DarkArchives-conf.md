@@ -35,5 +35,6 @@ For any inquiries, suggestions, requests, the team can be reached at [parisbible
 
 ### **Suggested citation**
 
-Guéville, Estelle, and Wrisley, David Joseph. (09 September 2020). [Abstract - Rethinking the Abbreviation. Questions and cCallenges of Machine Reading Medieval Scripta](https://parisbible.github.io/2020-09-09-DarkArchives-conf/). *Paris Bible Project*.
+Guéville, Estelle, and Wrisley, David Joseph. (09 September 2020). [Abstract - Rethinking the Abbreviation. Questions and Challenges of Machine Reading Medieval Scripta](https://parisbible.github.io/2020-09-09-DarkArchives-conf/). *Paris Bible Project*.
 
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 

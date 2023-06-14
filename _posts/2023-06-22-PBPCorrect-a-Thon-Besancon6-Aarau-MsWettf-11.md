@@ -126,5 +126,4 @@ Serhat Açar and Elia Coulot.
 ## Suggested citation
 Açar, Serhat, Coulot, Elia. (22 June 2023). PBP Challenge Besançon: Aargauer Kantonsbibliothek, MsWettF 11 with Digital Humanities. *Paris Bible Project.*
 
-
-
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

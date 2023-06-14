@@ -131,3 +131,4 @@ If you have additional suggestions for exploring collections in France not cover
 
 Guéville, Estelle. (31 August 2021). Bible hunting: where to find data? The case of France. *Paris Bible Project.*
 
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

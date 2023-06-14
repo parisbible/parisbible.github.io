@@ -55,4 +55,7 @@ Transkribus Glossary. *Virtual Keyboard*. https://readcoop.eu/glossary/virtual-k
 <br>
 
 ## **Suggested citation:**
+
 Cappelletto, Niccolò Acram. (14 July 2021). The Paris Bible Project and Transkribus: the Virtual Keyboard. *Paris Bible Project.*
+
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

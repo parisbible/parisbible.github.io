@@ -99,5 +99,5 @@ Happy hunting!
 ## **Suggested citation**
 Hemmons, Amanda Robin. (08 June 2023). [Bible hunting: Where to find data? The case of Portugal.](https://parisbible.github.io/23-06-08-bible-hunting-Portugal/) *Paris Bible Project.*
 
-
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 

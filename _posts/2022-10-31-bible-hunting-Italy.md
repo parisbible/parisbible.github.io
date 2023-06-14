@@ -71,3 +71,4 @@ You can also consult the bibliography of the project on [Zotero](https://www.zot
 
 Cappelletto, Niccolò Acram (31 October 2022). [Bible hunting: where to find data? The case of Italy and the Vatican](https://parisbible.github.io/2022-10-31--bible-hunting-Italy/). *Paris Bible Project*.
 
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

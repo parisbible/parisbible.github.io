@@ -93,3 +93,4 @@ Finally, participating in a community challenge such as this one was a valuable 
 ## **Suggested citation**
 Faller, Úna and Rodriguez, Diego. (29 June 2023). Paris Bible Correct-a-thon: Beinecke ZZi 56. *Paris Bible Project.*
 
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

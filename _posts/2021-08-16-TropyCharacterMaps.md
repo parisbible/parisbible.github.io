@@ -76,3 +76,4 @@ In our repository on Github, you can find the JSON files for our character maps 
 
 Cappelletto, Niccolò Acram. (16 August 2021). Tropy and Character Maps: image-based research. *Paris Bible Project.*
 
+This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

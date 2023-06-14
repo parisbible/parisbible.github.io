@@ -14,7 +14,6 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 # Models
 
 - **5** models trained in Transkribus
-- Public models are stored in Transkribus.
 
 | Model_name | Date_trained | Base_model              | Number_epochs | Number_GT_pages | Train_set | Validation_set | Number_lines | Number_words | CER (training set) | CR (validation set) | Comments                                                     |
 | ---------- | ------------ | ----------------------- | ------------- | --------------- | --------- | -------------- | ------------ | ------------ | ------------------ | ------------------- | ------------------------------------------------------------ |
@@ -30,19 +29,16 @@ The bibliography of the project is available on [Zotero](https://www.zotero.org/
 # Manuscripts
 
 - **More than 320** manuscripts from **76** institutions in **14** countries
-- The list of manuscripts and their metadata are downloadable on [Github](https://github.com/parisbible/mss).
-
-[View where the manuscripts are kept today!](https://view-awesome-table.com/-NAecAbDIDjxCaxCO2Mb/view)
-
+- The versioned list of manuscripts is downloadable at [Zenodo](https://zenodo.org/record/7274507).
 
 
 # Transcriptions
 
 - **186** pages of ground truth
-- Ground truth is available and downloadable on [Github](https://github.com/parisbible/ground_truth).
+- Versioned ground truth is downloadable at [Zenodo](https://zenodo.org/record/7653691).
 
 
 
 <br>
 
-*Last update: 05/02/2023*
+*Last update: 14/06/2023*

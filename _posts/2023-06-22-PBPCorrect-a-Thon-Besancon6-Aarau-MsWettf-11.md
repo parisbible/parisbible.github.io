@@ -124,6 +124,6 @@ In conclusion, working with Transkribus has been an unusual adventure in underst
 Serhat Açar and Elia Coulot. 
 
 ## Suggested citation
-Açar, Serhat, Coulot, Elia. (22 June 2023). PBP Challenge Besançon: Aargauer Kantonsbibliothek, MsWettF 11 with Digital Humanities. *Paris Bible Project.*
+Açar, Serhat, Coulot, Elia. (22 June 2023). PBP Correct-a-thon Besançon: Aargauer Kantonsbibliothek, MsWettF 11. *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

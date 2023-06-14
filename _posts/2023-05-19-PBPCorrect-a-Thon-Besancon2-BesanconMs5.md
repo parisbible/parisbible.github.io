@@ -99,6 +99,6 @@ Finally, practicing with an AI related software was the opportunity to begin a p
 Kateri Soulard, Sonaj Kailas, David Macchi. 
 
 ## Suggested Citation
-Soulard, Kateri; Kailas, Sonaj; Macchi, David. (19 May 2023). PBP Correct-a-thon Besançon: Besançon Ms 5.  *Paris Bible Project.*
+Soulard, Kateri; Kailas, Sonaj; Macchi, David. (19 May 2023). PBP Correct-a-thon Besançon: Besançon Ms 5.  *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

@@ -151,6 +151,6 @@ Lucia Sol Bezzecchi Petroff, Amanda Robin Hemmons, Alexandre Keyes.
 
 <br>
 
-Bezzecchi Petroff, Lucia Sol, Hemmons, Amanda Robin, and Keyes, Alexandre. (15 June 2023). PBP Challenge Besançon: Beinecke Ms 387 *Paris Bible Project*.
+Bezzecchi Petroff, Lucia Sol, Hemmons, Amanda Robin, and Keyes, Alexandre. (15 June 2023). PBP Challenge Besançon: Beinecke Ms 387 *Paris Bible Project*. https://doi.org/10.5281/zenodo.8040632
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

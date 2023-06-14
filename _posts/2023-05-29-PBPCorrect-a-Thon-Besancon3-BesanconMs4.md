@@ -132,6 +132,6 @@ The manuscript that our team worked on was included in this selection and being 
 Sharon Hassive Guerra Álvarez, Nina Jacobson, Sümeyye Topkara.
 
 ## **Suggested citation**
-Guerra Álvarez, Sharon Hassive, Jacobson, Nina and Topkara, Sümeyye. (29 May 2023). PBP Correct-a-thon Besançon: Besançon Ms 4 *Paris Bible Project.*
+Guerra Álvarez, Sharon Hassive, Jacobson, Nina and Topkara, Sümeyye. (29 May 2023). PBP Correct-a-thon Besançon: Besançon Ms 4 *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

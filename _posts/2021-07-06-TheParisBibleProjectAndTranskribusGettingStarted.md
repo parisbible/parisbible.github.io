@@ -107,6 +107,6 @@ How to Use Transkribus in 10 Steps: https://readcoop.eu/transkribus/howto/use-tr
 
 ## **Suggested citation:**
 
-Cappelletto, Niccolò Acram, Wrisley, David Joseph, Guéville, Estelle. (07 July 2021). The Paris Bible Project and Transkribus: Getting started. *Paris Bible Project.*
+Cappelletto, Niccolò Acram, Wrisley, David Joseph, Guéville, Estelle. (07 July 2021). The Paris Bible Project and Transkribus: Getting started. *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

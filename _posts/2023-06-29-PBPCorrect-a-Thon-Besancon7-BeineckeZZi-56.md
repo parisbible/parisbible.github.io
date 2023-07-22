@@ -91,6 +91,6 @@ Finally, participating in a community challenge such as this one was a valuable 
 Úna Faller, Diego Rodriguez. 
 
 ## **Suggested citation**
-Faller, Úna and Rodriguez, Diego. (29 June 2023). Paris Bible Correct-a-thon: Beinecke ZZi 56. *Paris Bible Project.*
+Faller, Úna and Rodriguez, Diego. (29 June 2023). Paris Bible Correct-a-thon Besançon:  Beinecke ZZi 56. *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

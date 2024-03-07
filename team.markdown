@@ -40,4 +40,10 @@ She is a masters degree student at the University of Franche-Comté, studying Ra
 
 <br>
 
+**Alice Fournier**
+
+Alice is a masters degree student at the Université de Franche-Comté, studying Rare Books & Digital Humanities. After studying art history in The Netherlands and Ireland, she decided to embark on one last master back home in France to round up her studies. Her current interests are in stylometry and how language relates to and influences the creation of folklore. She is currently writing her master's thesis on the Beast of Gévaudan, studying it through this particular lens.
+
+<br>
+
 For any inquiries, suggestions, requests, the team can be reached at [parisbible@gmail.com](mailto:parisbible@gmail.com)

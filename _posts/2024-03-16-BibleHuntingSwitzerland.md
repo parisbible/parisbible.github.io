@@ -7,11 +7,8 @@ tags: [bible hunting, Switzerland, e-codices,]
 comments: false
 ---
 
-<br>
-
 Speaking from experience, there always comes a time in anyone’s academic career when you feel like pulling your hair out because a search engine let you down, *again*. And in that moment, you truly feel as if the gods of the internet are not listening to you, or straight up ignoring you. For the medievalist (and, to a larger extent, anyone whose job rests on the availability of priceless items through the good old web), that struggle is often only too real.
 
-<br>
 
 Manuscript hunting in Switzerland, however, is made incredibly easy by the online platform [***e-codices***](https://www.e-codices.unifr.ch/en), where manuscripts from all regions of the country are compiled in one place to facilitate research and access to material that would otherwise have sat on dusty bookshelves, largely forgotten by the wider public (medievalists, archivists and librarians don’t count, dusty bookshelves are their usual stomping ground).
 

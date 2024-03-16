@@ -17,11 +17,11 @@ Speaking from experience, there always comes a time in anyone’s academic caree
 
 <br>
 
-Manuscript hunting in Switzerland, however, is made incredibly easy by the online platform [***e-codices***] (https://www.e-codices.unifr.ch/en), where manuscripts from all regions of the country are compiled in one place to facilitate research and access to material that would otherwise have sat on dusty bookshelves, largely forgotten by the wider public (medievalists, archivists and librarians don’t count, dusty bookshelves are their usual stomping ground).
+Manuscript hunting in Switzerland, however, is made incredibly easy by the online platform [***e-codices***](https://www.e-codices.unifr.ch/en), where manuscripts from all regions of the country are compiled in one place to facilitate research and access to material that would otherwise have sat on dusty bookshelves, largely forgotten by the wider public (medievalists, archivists and librarians don’t count, dusty bookshelves are their usual stomping ground).
 
 <br>
 
-The platform ***e-codices***, originally founded in the early 2000s, “offers free online access to medieval and early modern manuscripts from public and church-owned collections as well as from numerous private collections” (check out their [**"Brief History"**] (https://www.e-codices.unifr.ch/en/about/history) snippet). It is, in short, the virtual manuscript library of Switzerland. And that’s not nothing! 
+The platform ***e-codices***, originally founded in the early 2000s, “offers free online access to medieval and early modern manuscripts from public and church-owned collections as well as from numerous private collections” (check out their [**"Brief History"**](https://www.e-codices.unifr.ch/en/about/history) snippet). It is, in short, the virtual manuscript library of Switzerland. And that’s not nothing! 
 
 <br>
 
@@ -37,7 +37,7 @@ Considering the interface is built to give information in three different langua
 
 <br>
 
-Now, of course, when compared to the much larger platforms, such as [**Gallica**] (https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) for example, that may not seem all that impressive, but let’s not forget that all of the digitizations present on *e-codices* are of the highest quality, a definite bonus for the desperate medievalist in search of not only content, but good content. If you’re curious about how *e-codices* what material is used to digitize content for the platform, you can head to their [**“Reproductions Guidelines”**] (https://www.e-codices.unifr.ch/en/about/imaging) to learn more!
+Now, of course, when compared to the much larger platforms, such as [**Gallica**](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) for example, that may not seem all that impressive, but let’s not forget that all of the digitizations present on *e-codices* are of the highest quality, a definite bonus for the desperate medievalist in search of not only content, but good content. If you’re curious about how *e-codices* what material is used to digitize content for the platform, you can head to their [**“Reproductions Guidelines”**](https://www.e-codices.unifr.ch/en/about/imaging) to learn more!
 
 <br>
 
@@ -69,7 +69,7 @@ The screenshots show only a tiny fraction of *e-codices*’ truly quite phenomen
 
 <br>
 
-In the context of our own project, however, I would then look at the manuscript itself to see whether or not it fits the criteria of a Paris Bible (see blog post [**“What is a Paris Bible?”**] (https://parisbible.github.io/2021-06-15-what_is_PB/) for reference). Does it look like one? What about the codicological aspect? Sometimes, you get lucky and you get a very precise, extremely detailed description… and sometimes not so much. If you’re unlucky, you might have to channel your inner Sherlock Holmes and do a bit of sleuthing to try and dig up older catalog editions.
+In the context of our own project, however, I would then look at the manuscript itself to see whether or not it fits the criteria of a Paris Bible (see blog post [**“What is a Paris Bible?”**](https://parisbible.github.io/2021-06-15-what_is_PB/) for reference). Does it look like one? What about the codicological aspect? Sometimes, you get lucky and you get a very precise, extremely detailed description… and sometimes not so much. If you’re unlucky, you might have to channel your inner Sherlock Holmes and do a bit of sleuthing to try and dig up older catalog editions.
 
 <br>
 

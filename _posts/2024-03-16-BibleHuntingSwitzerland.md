@@ -9,10 +9,6 @@ comments: false
 
 <br>
 
-# **Bible hunting: Where to find data? The case of Switzerland and *e-codices*.** 
-
-<br>
-
 Speaking from experience, there always comes a time in anyone’s academic career when you feel like pulling your hair out because a search engine let you down, *again*. And in that moment, you truly feel as if the gods of the internet are not listening to you, or straight up ignoring you. For the medievalist (and, to a larger extent, anyone whose job rests on the availability of priceless items through the good old web), that struggle is often only too real.
 
 <br>

@@ -61,7 +61,7 @@ In the context of our own project, however, I would then look at the manuscript 
 
 <br>
 
-If you have additional suggestions for exploring collections in France not covered here or additional tips, drop us a line at parisbible(at)gmail(dot)com. 
+If you have additional suggestions for exploring collections in Switzerland not covered here or additional tips, drop us a line at parisbible(at)gmail(dot)com. 
 
 <br>
 

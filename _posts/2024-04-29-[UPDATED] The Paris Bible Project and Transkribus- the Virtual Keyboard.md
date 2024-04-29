@@ -27,9 +27,7 @@ The virtual keyboard uses [**unicode blocks**](https://www.compart.com/fr/unicod
 - Unified Canadian Aboriginal Syllabics (U+1400–U+167F)
 - General Punctuation (U+2000–U+206F)
 - Supplemental Punctuation (U+2E00–U+2E7F)
-
 <br>
-
 ### But how do we add only the characters we want from a specific unicode block?
 
 In the Transkribus browser client (Transkribus Lite), to open up the virtual keyboard, you first need to open the document you wish to transcribe. Then, **in the bottom right-hand corner, click on the settings tab** (see image below).

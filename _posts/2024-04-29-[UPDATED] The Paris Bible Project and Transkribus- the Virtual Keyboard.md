@@ -14,8 +14,7 @@ Since the original blog post (https://parisbible.github.io/2021-07-14-TheParisBi
 <br>
 
 <img src="/assets/Macron_example.png">
-
-<br>
+#### Example of a macro in scribal handwriting. 
 
 **The virtual keyboard is absolutely indispensable when working with old manuscripts, but also with newer ones.** Think, for example, of handwritten authorial notes, or shorthand, where abbreviations and idiosyncratic features are often used and may need to be transcribed as such, depending on what kind of research is being carried out. 
 
@@ -59,8 +58,6 @@ In order to clean up which characters you’ll need in your own virtual keyboard
 <br>
 
 <img src="/assets/VK_IMG3.png">
-
-<br>
 
 #### This is an example showing the macro special character, a long line very often used by medieval scribes above letters to signify an abbreviation within a word. It’s a symbol absolutely essential in the context of the Paris Bible Project; not transcribing it is not an option.
 

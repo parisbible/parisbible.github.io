@@ -14,7 +14,6 @@ Since the original blog post (https://parisbible.github.io/2021-07-14-TheParisBi
 <br>
 
 <img src="/assets/Macron_example.png">
-#### Example of a macro in scribal handwriting. 
 
 **The virtual keyboard is absolutely indispensable when working with old manuscripts, but also with newer ones.** Think, for example, of handwritten authorial notes, or shorthand, where abbreviations and idiosyncratic features are often used and may need to be transcribed as such, depending on what kind of research is being carried out. 
 

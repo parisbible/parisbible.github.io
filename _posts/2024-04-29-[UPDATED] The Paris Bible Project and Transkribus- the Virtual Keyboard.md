@@ -10,11 +10,11 @@ comments: false
 # **[UPDATED] The Paris Bible Project and Transkribus: the Virtual Keyboard** 
 
 Since [the original blog post](https://parisbible.github.io/2021-07-14-TheParisBibleProjectandTranskribusVirtualKeyboard/) on the virtual keyboard feature in Transkribus was published in 2021, a few things have changed, and it was time for an updated manual on how to use it. In the context of the Paris Bible Project, we find ourselves using two main categories of special characters: **diacritics** and **superscript letters.** Those were used by medieval scribes to denote an abbreviation within the text (see image below). 
-
 <br>
 
 <img src="/assets/Macron_example.png">
 
+<br>
 **The virtual keyboard is absolutely indispensable when working with old manuscripts, but also with newer ones.** Think, for example, of handwritten authorial notes, or shorthand, where abbreviations and idiosyncratic features are often used and may need to be transcribed as such, depending on what kind of research is being carried out. 
 
 The virtual keyboard uses [**unicode blocks**](https://www.compart.com/fr/unicode/block) to code those special characters. Unicode blocks are made up of unicode characters, each with its own specific code; usually, something along the lines of: U+0… or U+A… and so on. In the case of the Paris Bible Project, we use eight main unicode blocks, since the special characters we need are spread out within several blocks, and not gathered into one:
@@ -33,27 +33,22 @@ The virtual keyboard uses [**unicode blocks**](https://www.compart.com/fr/unicod
 ### But how do we add only the characters we want from a specific unicode block?
 
 In the Transkribus browser client (Transkribus Lite), to open up the virtual keyboard, you first need to open the document you wish to transcribe. Then, **in the bottom right-hand corner, click on the settings tab** (see image below).
-
 <br>
 
 <img src="/assets/VK_IMG1.png">
 
 <br>
-
 Once there, **click on “Virtual Keyboard” and type in the “Search unicode ranges” whichever unicode *blocks* you need (not characters; *blocks*).** For example: “Combining diacritical marks”. 
-
 <br>
 
 <img src="/assets/VK_IMG2.png">
 
 <br>
-
 This is where things are going to get a little trickier, since, as you can see on the image above, some characters do not show up in the “Add characters” tab. **Each blank button denotes one unicode character.** In the images above, the virtual keyboard has already been configured, but when you first enter a unicode block, you’ll get many, many more such blank buttons.
 
 ***Note:*** Not all unicode blocks show up as blank buttons, but some will. 
 
 In order to clean up which characters you’ll need in your own virtual keyboard, and which ones you can discard, since you can’t see what they look like right off the bat, **you need to hover your mouse cursor over each blank button for a few seconds, until you see a miniature of the special character show up** (see image below). 
-
 <br>
 
 <img src="/assets/VK_IMG3.png">

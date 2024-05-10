@@ -7,14 +7,15 @@ permalink: /publications/
 
 This section lists all the conferences where the members of the research team presented the project or publications.
 
+# Book
+- (Under contract) Wrisley, David J. and Guéville, Estelle. *Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the Paris Bible.*
 
 # Publications
 
+- Guéville, Estelle and David Joseph Wrisley. (2023). Transcribing Medieval Manuscripts for Machine Learning. *Journal of Data Mining and Digital Humanities.* 
+
 - [Wrisley, David Joseph, Estelle Guéville and Niccolò Acram Cappelletto. (2022). Creating New Audiences for Digital Objects Through Museum-University Collaboration. *Museums in the Middle East Journal*. Sharjah, UAE. 3: 61-63.](http://hdl.handle.net/2451/63847)
 
-- Guéville, Estelle and David Joseph Wrisley. (2023). Transcribing Medieval Manuscripts for Machine Learning. *Journal of Data Mining and Digital Humanities.* forthcoming. 
-
-- Guéville, Estelle and David Joseph Wrisley (forthcoming). Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts. *Journal of the Early Book Society.*
 
 
 # Conference presentations

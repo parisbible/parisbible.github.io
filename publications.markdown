@@ -12,7 +12,7 @@ This section lists all the conferences where the members of the research team pr
 
 # Publications
 
-- Guéville, Estelle and David Joseph Wrisley. (2023). Transcribing Medieval Manuscripts for Machine Learning. *Journal of Data Mining and Digital Humanities.* 
+- [Guéville, Estelle and David Joseph Wrisley. (2024). Transcribing Medieval Manuscripts for Machine Learning. *Journal of Data Mining and Digital Humanities*](https://jdmdh.episciences.org/11090). 
 
 - [Wrisley, David Joseph, Estelle Guéville and Niccolò Acram Cappelletto. (2022). Creating New Audiences for Digital Objects Through Museum-University Collaboration. *Museums in the Middle East Journal*. Sharjah, UAE. 3: 61-63.](http://hdl.handle.net/2451/63847)
 

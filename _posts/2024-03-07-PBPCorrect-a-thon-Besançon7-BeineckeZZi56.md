@@ -82,21 +82,16 @@ Finally, participating in a community challenge such as this one was a valuable 
 
 <li>Lofgreen, A. (2019). [Overfitting: What to Do When Your Model Is Synced Too Closely to Your Training Data]
 (https://www.datarobot.com/blog/overfitting-what-to-do-when-your-model-is-synced-too-closely-to-your-training-data/)
-
 </li>
 </ul>
 <br>
 
 ### Team
-<ul>
 Úna Faller, Diego Rodriguez. 
-</ul>
 <br>
 
 ## Suggested citation
-</ul>
 Faller, Úna and Rodriguez, Diego. (29 June 2023). Paris Bible Correct-a-thon Besançon:  Beinecke ZZi 56. *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
-</ul>
 <br>
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

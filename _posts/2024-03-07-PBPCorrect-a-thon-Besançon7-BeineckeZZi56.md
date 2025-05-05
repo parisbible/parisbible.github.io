@@ -86,12 +86,16 @@ Finally, participating in a community challenge such as this one was a valuable 
 </ul>
 <br>
 
-### Team
-Úna Faller, Diego Rodriguez. 
+### **Team**
+<ul>
+Úna Faller, Diego Rodriguez
+</ul>
 <br>
 
 ## Suggested citation
-Faller, Úna and Rodriguez, Diego. (29 June 2023). Paris Bible Correct-a-thon Besançon:  Beinecke ZZi 56. *Paris Bible Project.* https://doi.org/10.5281/zenodo.8040632
+<ul>
+Faller, Úna and Rodriguez, Diego. (29 June 2023). Paris Bible Correct-a-thon Besançon:  Beinecke ZZi 56. Paris Bible Project. https://doi.org/10.5281/zenodo.8040632
+</ul>
 <br>
 
 This post is published with a [CC BY-SA-NC 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

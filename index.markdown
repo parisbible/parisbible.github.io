@@ -12,9 +12,9 @@ cover:  false #!! Add this
 
 # What's new?
 
-The team is currently working on a monograph under contract with Arc Humanities Press.
+Our monograph "Medieval Manuscripts and the Computational Humanities: Big Data, Scribes and the 'Paris Bible'" has an ISBN and will appear in Open Access at [Arc Humanities Press](https://www.arc-humanities.org/9781802702439/medieval-manuscripts-and-the-computational-humanities/) in Spring 2026. 
 
-For this reason, they will not present at conferences in the foreseable future.
+It is available for [pre-order](https://www.amazon.com/Medieval-Manuscripts-Computational-Humanities-Cultures/dp/1802702431). 
 
 <br>
 
